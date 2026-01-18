@@ -1,0 +1,3920 @@
+[
+    {
+        "name": "Abildsø menighetsbarnehage",
+        "address": "Langerudhaugen 1, 1187 OSLO",
+        "lat": "59.8797940",
+        "lon": "10.8271310"
+    },
+    {
+        "name": "Akersløkka barnehage",
+        "address": "Torvbakkgata 9, 0550 OSLO",
+        "lat": "59.9195590",
+        "lon": "10.7569010"
+    },
+    {
+        "name": "Akersveien Kanvas-barnehage",
+        "address": "Westye Egebergs gate 11, 0172 OSLO",
+        "lat": "59.9230030",
+        "lon": "10.7477800"
+    },
+    {
+        "name": "Almelia – SiO barnehage",
+        "address": "Jon P. Erliens vei 18, 0858 OSLO",
+        "lat": "59.9515480",
+        "lon": "10.7306060"
+    },
+    {
+        "name": "Amigos Abrakadabra familiebarnehage",
+        "address": "Løkkegangen 2, 0251 OSLO",
+        "lat": "59.9115260",
+        "lon": "10.7227260"
+    },
+    {
+        "name": "Amigos Duogjegogvito AS familiebarnehage",
+        "address": "Tråkka 22, 0774 OSLO",
+        "lat": "59.9495520",
+        "lon": "10.6814780"
+    },
+    {
+        "name": "Amigos Giraffen familiebarnehage",
+        "address": "Bråtenalleen 10, 0487 OSLO",
+        "lat": "59.9486370",
+        "lon": "10.7852610"
+    },
+    {
+        "name": "Amigos Småen familiebarnehage",
+        "address": "Bjerkealleen 50A, 0487 OSLO",
+        "lat": "59.9497740",
+        "lon": "10.7788940"
+    },
+    {
+        "name": "Amigos Småvenner familiebarnehage",
+        "address": "Fagertunveien 3C, 0181 OSLO",
+        "lat": "59.9224720",
+        "lon": "10.6638460"
+    },
+    {
+        "name": "Amigos Tornerose familiebarnehage",
+        "address": "Frognerveien 47, 0266 OSLO",
+        "lat": "59.9207390",
+        "lon": "10.7074540"
+    },
+    {
+        "name": "Ammerudenga barnehage",
+        "address": "Ammerudveien 47, 0958 OSLO",
+        "lat": "59.9640650",
+        "lon": "10.8741540"
+    },
+    {
+        "name": "Ammerudgrenda barnehage",
+        "address": "Ammerudgrenda 327B, 0960 OSLO",
+        "lat": "59.9649880",
+        "lon": "10.8774490"
+    },
+    {
+        "name": "Ammerudkollen friluftsbarnehage",
+        "address": "Lilloseterveien 43, 0957 OSLO",
+        "lat": "59.9632940",
+        "lon": "10.8696680"
+    },
+    {
+        "name": "Ammerudlia barnehage",
+        "address": "Ammerudhellinga 49, 0959 OSLO",
+        "lat": "59.9625060",
+        "lon": "10.8783520"
+    },
+    {
+        "name": "Andromeda barnehage",
+        "address": "Langåsveien 24, 0880 OSLO",
+        "lat": "59.9620420",
+        "lon": "10.7561770"
+    },
+    {
+        "name": "Ankerhagen barnehage",
+        "address": "Observatoriegata 6, 0254 OSLO",
+        "lat": "59.9133480",
+        "lon": "10.7210770"
+    },
+    {
+        "name": "Arnebråtveien barnehage",
+        "address": "Arnebråtveien 73, 0771 OSLO",
+        "lat": "59.9523280",
+        "lon": "10.6629960"
+    },
+    {
+        "name": "Askeladden barnehage",
+        "address": "Sigurd Lies gate 13, 0479 OSLO",
+        "lat": "59.9365070",
+        "lon": "10.7776470"
+    },
+    {
+        "name": "Askeveien barnehage",
+        "address": "Askeveien 7, 0276 OSLO",
+        "lat": "59.9240590",
+        "lon": "10.6853000"
+    },
+    {
+        "name": "Asperud FUS barnehage",
+        "address": "Asperudåsen 57, 1258 OSLO",
+        "lat": "59.8390390",
+        "lon": "10.8014290"
+    },
+    {
+        "name": "Badebakken barnehage",
+        "address": "Badebakken 28, 0467 OSLO",
+        "lat": "59.9462060",
+        "lon": "10.7629840"
+    },
+    {
+        "name": "Baglerbyen FUS barnehage",
+        "address": "Konows gate 20, 0196 OSLO",
+        "lat": "59.9028970",
+        "lon": "10.7744120"
+    },
+    {
+        "name": "Bakkehaugen barnehage SA",
+        "address": "Einar Høigårds vei 25, 0871 OSLO",
+        "lat": "59.9471720",
+        "lon": "10.7552470"
+    },
+    {
+        "name": "Bakkehavn barnehage",
+        "address": "Løvsetdalen 16, 1188 OSLO",
+        "lat": "59.8734560",
+        "lon": "10.8320890"
+    },
+    {
+        "name": "Bakketoppen barnehage",
+        "address": "Bakketoppen 21A, 1165 OSLO",
+        "lat": "59.8530390",
+        "lon": "10.8107160"
+    },
+    {
+        "name": "Bamsebo – SiO barnehage",
+        "address": "Sem Sælands vei 4, 0371 OSLO",
+        "lat": "59.9369260",
+        "lon": "10.7196420"
+    },
+    {
+        "name": "Bamsebo familiebarnehage",
+        "address": "Bernhard Herres Vei 9, 0376 OSLO",
+        "lat": "59.9417710",
+        "lon": "10.6852190"
+    },
+    {
+        "name": "Barnas hus barnehage",
+        "address": "Christies gate 38, 0568 OSLO",
+        "lat": "59.9307140",
+        "lon": "10.7649350"
+    },
+    {
+        "name": "Barnebo barnehage",
+        "address": "Gaustadalléen 28, 0372 OSLO",
+        "lat": "59.9434800",
+        "lon": "10.7157800"
+    },
+    {
+        "name": "BarnehagenVår Josefine",
+        "address": "Kapellveien 25, 0487 OSLO",
+        "lat": "59.9477580",
+        "lon": "10.7831550"
+    },
+    {
+        "name": "Barnehagenvår, Løren",
+        "address": "Sinsenveien 29, 0585 OSLO",
+        "lat": "59.9311500",
+        "lon": "10.7872740"
+    },
+    {
+        "name": "Barnehagenvår, Sofus",
+        "address": "Økernveien 228, 0584 OSLO",
+        "lat": "59.9409010",
+        "lon": "10.8183910"
+    },
+    {
+        "name": "Barneslottet barnehage",
+        "address": "Dr. Dedichens vei 22A, 0675 OSLO",
+        "lat": "59.9247740",
+        "lon": "10.8627280"
+    },
+    {
+        "name": "Bauneveien barnehage",
+        "address": "Bauneveien 47, 1182 OSLO",
+        "lat": "59.8912200",
+        "lon": "10.7970150"
+    },
+    {
+        "name": "Bekkelaget familiebarnehage",
+        "address": "Bekkelagsveien 18E, 1177 OSLO",
+        "lat": "59.8829490",
+        "lon": "10.7750530"
+    },
+    {
+        "name": "Bekkelaget Kirkes barnehage",
+        "address": "Sandstuveien 18, 1178 OSLO",
+        "lat": "59.8863398",
+        "lon": "10.7865650"
+    },
+    {
+        "name": "Bellevue Gård barnehage",
+        "address": "Helgesens gate 92, 0563 OSLO",
+        "lat": "59.9193920",
+        "lon": "10.7777470"
+    },
+    {
+        "name": "Berg gård spesialbarnehage",
+        "address": "Bergsalleen 22, 0854 OSLO",
+        "lat": "59.9485240",
+        "lon": "10.7384310"
+    },
+    {
+        "name": "Bergebo barnehage",
+        "address": "Huk aveny 57, 0287 OSLO",
+        "lat": "59.9004290",
+        "lon": "10.6800900"
+    },
+    {
+        "name": "Bergtunet barnehage",
+        "address": "Bergsalléen 23, 0854 OSLO",
+        "lat": "59.9487490",
+        "lon": "10.7391320"
+    },
+    {
+        "name": "Best barnehage",
+        "address": "Lettvintveien 29, 0487 OSLO",
+        "lat": "59.9444070",
+        "lon": "10.7865910"
+    },
+    {
+        "name": "Betha Thorsens Kanvas-barnehage",
+        "address": "Drammensveien 33A, 0271 OSLO",
+        "lat": "59.9139760",
+        "lon": "10.7145240"
+    },
+    {
+        "name": "Bevern barnehage",
+        "address": "Beverveien 27, 0596 OSLO",
+        "lat": "59.9426010",
+        "lon": "10.8491860"
+    },
+    {
+        "name": "Bikuben barnehage",
+        "address": "Lilleakerveien 24C, 0283 OSLO",
+        "lat": "59.9192050",
+        "lon": "10.6347150"
+    },
+    {
+        "name": "Bislettbekken - Sio barnehage AS",
+        "address": "Pilestredet 42, 0167 OSLO",
+        "lat": "59.9216040",
+        "lon": "10.7340380"
+    },
+    {
+        "name": "Bjerkealléen Kanvas-barnehage",
+        "address": "Bjerkealleen 21-23, 0487 OSLO",
+        "lat": "59.9495117",
+        "lon": "10.7794107"
+    },
+    {
+        "name": "Bjerkedalen barnehage",
+        "address": "Refstadveien 71, 0589 OSLO",
+        "lat": "59.9397830",
+        "lon": "10.8225990"
+    },
+    {
+        "name": "Bjølsen barnehage",
+        "address": "Bjølsengata 20, 0468 OSLO",
+        "lat": "59.9417220",
+        "lon": "10.7570890"
+    },
+    {
+        "name": "Bjølsenhellinga barnehage",
+        "address": "Bjølsengata 11, 0468 OSLO",
+        "lat": "59.9410040",
+        "lon": "10.7578780"
+    },
+    {
+        "name": "Bjølsenparken barnehage",
+        "address": "Bjølsengata 12, 0468 OSLO",
+        "lat": "59.9404760",
+        "lon": "10.7576140"
+    },
+    {
+        "name": "Bjørnebo barnehage",
+        "address": "Stenbråtveien 11, 1283 OSLO",
+        "lat": "59.8498280",
+        "lon": "10.8241490"
+    },
+    {
+        "name": "Bjørnheim barnehage",
+        "address": "Høybråtenveien 27, 1055 OSLO",
+        "lat": "59.9431310",
+        "lon": "10.9059480"
+    },
+    {
+        "name": "Bjørnåsen barnehage",
+        "address": "Bjørnefaret 2, 1270 OSLO",
+        "lat": "59.8306900",
+        "lon": "10.8330220"
+    },
+    {
+        "name": "Blakkens vei barnehage",
+        "address": "Blakkens vei 123, 1281 OSLO",
+        "lat": "59.8417290",
+        "lon": "10.8298090"
+    },
+    {
+        "name": "Blindern Barnestuer",
+        "address": "Moltke Moes vei 18-24, 0851 OSLO",
+        "lat": "59.9402762",
+        "lon": "10.7248573"
+    },
+    {
+        "name": "Blindernveien – Sio barnehage AS",
+        "address": "Blindernveien 6, 0361 OSLO",
+        "lat": "59.9404910",
+        "lon": "10.7148690"
+    },
+    {
+        "name": "Blokkajordet barnehage",
+        "address": "Furulundsveien 23, 0280 OSLO",
+        "lat": "59.9248940",
+        "lon": "10.6491290"
+    },
+    {
+        "name": "Blåbærskogen barnehage",
+        "address": "Frognerseterveien 67, 0782 OSLO",
+        "lat": "59.9614630",
+        "lon": "10.6841420"
+    },
+    {
+        "name": "Bogerud gård barnehage",
+        "address": "General ruges vei 67, 0692 OSLO",
+        "lat": "59.8773950",
+        "lon": "10.8400110"
+    },
+    {
+        "name": "Bogerud åpen barnehage",
+        "address": "Stallerudveien 97, 0693 OSLO",
+        "lat": "59.8743763",
+        "lon": "10.8454169"
+    },
+    {
+        "name": "Borggata familiebarnehage",
+        "address": "Borggata 8, 0650 Oslo",
+        "lat": "59.9125590",
+        "lon": "10.7706760"
+    },
+    {
+        "name": "Brattvoll familiebarnehage",
+        "address": "Brattvollveien 13, 1164 OSLO",
+        "lat": "59.8578270",
+        "lon": "10.8133370"
+    },
+    {
+        "name": "Bredtvet barnehage",
+        "address": "Bredtvetveien 14, 0950 OSLO",
+        "lat": "59.9471030",
+        "lon": "10.8586040"
+    },
+    {
+        "name": "Breidablikk barnehage",
+        "address": "Akersbakken 27, 0172 OSLO",
+        "lat": "59.9236820",
+        "lon": "10.7457850"
+    },
+    {
+        "name": "Breigata barnehage",
+        "address": "Breigata 3, 0187 OSLO",
+        "lat": "59.9139670",
+        "lon": "10.7606480"
+    },
+    {
+        "name": "Brennastubben familiebarnehage AS",
+        "address": "Brennastubben 16, 1279 OSLO",
+        "lat": "59.8490490",
+        "lon": "10.8432790"
+    },
+    {
+        "name": "Brobekk barnehage",
+        "address": "Refstadsvingen 16, 0589 OSLO",
+        "lat": "59.9427700",
+        "lon": "10.8183150"
+    },
+    {
+        "name": "Brumlebassen barnehage",
+        "address": "Simensbråtveien 25 B, 1182 OSLO",
+        "lat": "59.8989670",
+        "lon": "10.7959670"
+    },
+    {
+        "name": "Bråten barnehage SA",
+        "address": "Seterliveien 5, 1162 OSLO",
+        "lat": "59.8664530",
+        "lon": "10.7921060"
+    },
+    {
+        "name": "Bråtenalléen barnehage",
+        "address": "Bråtenalléen 33, 0487 OSLO",
+        "lat": "59.9514610",
+        "lon": "10.7778670"
+    },
+    {
+        "name": "Brødfabrikken FUS barnehage",
+        "address": "Lørenvangen 3, 0585 OSLO",
+        "lat": "59.9292360",
+        "lon": "10.7952560"
+    },
+    {
+        "name": "Bukken Bruse barnehage",
+        "address": "Nygård terrasse 10, 0873 OSLO",
+        "lat": "59.9518350",
+        "lon": "10.7584840"
+    },
+    {
+        "name": "Bygården barnehage",
+        "address": "Welhavens gate 19, 0350 OSLO",
+        "lat": "59.9209340",
+        "lon": "10.7310150"
+    },
+    {
+        "name": "Bøler menighetsbarnehage",
+        "address": "General Ruges vei 51, 0691 OSLO",
+        "lat": "59.8827350",
+        "lon": "10.8404510"
+    },
+    {
+        "name": "Bøler sentrum barnehage",
+        "address": "Bølerlia 4, 0691 OSLO",
+        "lat": "59.8825440",
+        "lon": "10.8449960"
+    },
+    {
+        "name": "Bøler åpen barnehage",
+        "address": "Bølerlia 3 a, 0620 OSLO",
+        "lat": "59.8828050",
+        "lon": "10.8440060"
+    },
+    {
+        "name": "Casa Dei Bambini Montessoribarnehage",
+        "address": "Huldreveien 28, 0781 OSLO",
+        "lat": "59.9637460",
+        "lon": "10.6931240"
+    },
+    {
+        "name": "Casinetto barnehage",
+        "address": "Jonsrudveien 13, 0274 OSLO",
+        "lat": "59.9260310",
+        "lon": "10.6925800"
+    },
+    {
+        "name": "Casinetto borettslagsbarnehage",
+        "address": "Gustav Vigelands vei 36, 0274 OSLO",
+        "lat": "59.9256370",
+        "lon": "10.6889810"
+    },
+    {
+        "name": "Christiania Barnehave Bjørndal",
+        "address": "Granbergstubben 11, 1275 OSLO",
+        "lat": "59.8257510",
+        "lon": "10.8381380"
+    },
+    {
+        "name": "Christiania barnehave Høybråten",
+        "address": "Høybråtenveien 12, 1055 OSLO",
+        "lat": "59.9470290",
+        "lon": "10.9047400"
+    },
+    {
+        "name": "Christiania Barnehave Nordstrand",
+        "address": "Bernt Knudsens vei 15, 1176 OSLO",
+        "lat": "59.8769920",
+        "lon": "10.8021600"
+    },
+    {
+        "name": "Christinedal kunst- og kulturbarnehage",
+        "address": "Harry Fetts vei 10, 0667 OSLO",
+        "lat": "59.9030440",
+        "lon": "10.8248320"
+    },
+    {
+        "name": "Cizaš, Oslo sámi mánáidgárdi, Oslo samiske barnehage",
+        "address": "Helgesens gate 94, 0563 OSLO",
+        "lat": "59.9192230",
+        "lon": "10.7772410"
+    },
+    {
+        "name": "Collettløkka barnehage",
+        "address": "Nedre Ullevål 8, 0850 OSLO",
+        "lat": "59.9392160",
+        "lon": "10.7333820"
+    },
+    {
+        "name": "Colores barnehage",
+        "address": "Fyrstikkalleen 19, 0661 OSLO",
+        "lat": "59.9146160",
+        "lon": "10.7944700"
+    },
+    {
+        "name": "Dalskroken barnehage",
+        "address": "Dalskroken 4, 0376 OSLO",
+        "lat": "59.9404440",
+        "lon": "10.6871750"
+    },
+    {
+        "name": "Damplassen barnehage",
+        "address": "Nils Lauritssøns vei 2a, 0854 OSLO",
+        "lat": "59.9441540",
+        "lon": "10.7348930"
+    },
+    {
+        "name": "Davinas barnehave",
+        "address": "Frognerseterveien 44B, 0776 OSLO",
+        "lat": "59.9535460",
+        "lon": "10.6902710"
+    },
+    {
+        "name": "De ni musene familiebarnehage avd.Ekeberg",
+        "address": "Jonsokveien 6, 1182 OSLO",
+        "lat": "59.8943410",
+        "lon": "10.7927140"
+    },
+    {
+        "name": "Den blå appelsin Kanvas-barnehage",
+        "address": "Lambertseterveien 9, 1160 OSLO",
+        "lat": "59.8712130",
+        "lon": "10.7991700"
+    },
+    {
+        "name": "Den Jødiske barnehagen",
+        "address": "Bergstien 13, 0172 OSLO",
+        "lat": "59.9256160",
+        "lon": "10.7430500"
+    },
+    {
+        "name": "Den tysk-norske barnehage i Oslo AS",
+        "address": "Myra 5, 0461 OSLO",
+        "lat": "59.9366960",
+        "lon": "10.7601050"
+    },
+    {
+        "name": "Diakonhjemmet barnehage Borgenveien AS",
+        "address": "Borgenveien 7, 0370 OSLO",
+        "lat": "59.9353070",
+        "lon": "10.7011420"
+    },
+    {
+        "name": "Diakonhjemmet barnehage Steinerud AS",
+        "address": "Hartvig Halvorsens vei 7, 0370 OSLO",
+        "lat": "59.9380940",
+        "lon": "10.7044170"
+    },
+    {
+        "name": "Disengrenda barnehage",
+        "address": "Disengrenda 8, 0587 OSLO",
+        "lat": "59.9430850",
+        "lon": "10.7965990"
+    },
+    {
+        "name": "Dokka barnehage",
+        "address": "St. Edmunds vei 37, 0280 OSLO",
+        "lat": "59.9272550",
+        "lon": "10.6712780"
+    },
+    {
+        "name": "Dr. Brandts barnehage",
+        "address": "Pilestredet park 6, 0176 OSLO",
+        "lat": "59.9207510",
+        "lon": "10.7380720"
+    },
+    {
+        "name": "Dronning Louises barnehage",
+        "address": "Arendalsgata 4, 0463 OSLO",
+        "lat": "59.9383770",
+        "lon": "10.7510390"
+    },
+    {
+        "name": "Dumpa Kanvas-musikkbarnehage",
+        "address": "Etterstadsletta 94, 0659 OSLO",
+        "lat": "59.9066520",
+        "lon": "10.8001730"
+    },
+    {
+        "name": "Dynekilen barnehage",
+        "address": "Dynekilgata 16 (Dynekilen) og 10 (Annekset), 0569 OSLO",
+        "lat": "59.9313210",
+        "lon": "10.7759020"
+    },
+    {
+        "name": "Eftasåsen barnehage",
+        "address": "Østmarkveien 26, 0687 OSLO",
+        "lat": "59.8926970",
+        "lon": "10.8499150"
+    },
+    {
+        "name": "Eikenøtten barnehage SA",
+        "address": "Tåsenveien 32, 0870 OSLO",
+        "lat": "59.9447730",
+        "lon": "10.7473300"
+    },
+    {
+        "name": "Eilert Sundt - SiO barnehage",
+        "address": "Moltke Moes vei 33, 0314 OSLO",
+        "lat": "59.9405870",
+        "lon": "10.7247370"
+    },
+    {
+        "name": "Eitillstad FUS barnehage",
+        "address": "Arnljot Gellines vei 5A, 0657 OSLO",
+        "lat": "59.9050640",
+        "lon": "10.7938360"
+    },
+    {
+        "name": "Ekeberg idrettsbarnehage",
+        "address": "Ekebergveien 101, 1178 OSLO",
+        "lat": "59.8916353",
+        "lon": "10.7783228"
+    },
+    {
+        "name": "Elmholt barnehage",
+        "address": "Olsens Enkes vei 2-4, 0281 OSLO",
+        "lat": "59.9247844",
+        "lon": "10.6686050"
+    },
+    {
+        "name": "Elverhøy barnehage",
+        "address": "Øvre Prinsdals vei 8, 1266 OSLO",
+        "lat": "59.8467310",
+        "lon": "10.8077350"
+    },
+    {
+        "name": "Enerhaugen barnehage",
+        "address": "Sørligata 4, 0577 Oslo",
+        "lat": "59.9137850",
+        "lon": "10.7682390"
+    },
+    {
+        "name": "Engebråten barnehage",
+        "address": "Neptunveien 28, 0493 OSLO",
+        "lat": "59.9608410",
+        "lon": "10.7761020"
+    },
+    {
+        "name": "Ensjø Torg barnehage",
+        "address": "Rolf Hofmos gate 20, 0655 OSLO",
+        "lat": "59.9136740",
+        "lon": "10.7875560"
+    },
+    {
+        "name": "Eplehagen Kanvas-barnehage",
+        "address": "Gaustadveien 21B, 0372 OSLO",
+        "lat": "59.9550320",
+        "lon": "10.7210100"
+    },
+    {
+        "name": "Eplekneika barnehage",
+        "address": "Åsdalsveien 13B, 1166 OSLO",
+        "lat": "59.8583530",
+        "lon": "10.7933130"
+    },
+    {
+        "name": "Espira Gartnerløkka barnehage",
+        "address": "Lørenvangen 24 Hus 4C, 0585 OSLO",
+        "lat": "59.9317568",
+        "lon": "10.7966370"
+    },
+    {
+        "name": "Espira Grefsen Stasjon barnehage",
+        "address": "Borger Withs gate 39, 0482 OSLO",
+        "lat": "59.9413338",
+        "lon": "10.7778459"
+    },
+    {
+        "name": "Espira Marienfryd barnehage",
+        "address": "Hovinveien 37E, 0576 OSLO",
+        "lat": "59.9205130",
+        "lon": "10.7917810"
+    },
+    {
+        "name": "Espira Spirea barnehage",
+        "address": "Spireaveien 14 D, 0580 OSLO",
+        "lat": "59.9323450",
+        "lon": "10.8009300"
+    },
+    {
+        "name": "Espira Torshovdalen barnehage",
+        "address": "Hans Nielsen Hauges gate 39F, 0481 OSLO",
+        "lat": "59.9373670",
+        "lon": "10.7808480"
+    },
+    {
+        "name": "Etterstad barnehage",
+        "address": "Etterstadsletta 45, 0660 OSLO",
+        "lat": "59.9103370",
+        "lon": "10.8031610"
+    },
+    {
+        "name": "Etterstadjordet barnehage",
+        "address": "Etterstadsletta 58, 0659 Oslo",
+        "lat": "59.9088490",
+        "lon": "10.8041320"
+    },
+    {
+        "name": "Eventyrbrua Steinerbarnehage",
+        "address": "Storgata 55, 0182 OSLO",
+        "lat": "59.9176460",
+        "lon": "10.7581880"
+    },
+    {
+        "name": "Eventyrlia FUS barnehage as",
+        "address": "Jordstjerneveien 48, 1283 OSLO",
+        "lat": "59.8478710",
+        "lon": "10.8189000"
+    },
+    {
+        "name": "Fagerborg menighetsbarnehage",
+        "address": "Sophus Bugges Plass, 0358 OSLO",
+        "lat": "59.9326764",
+        "lon": "10.7300915"
+    },
+    {
+        "name": "Fagerborggaten barnehage",
+        "address": "Fagerborggata 14, 0360 OSLO",
+        "lat": "59.9298650",
+        "lon": "10.7266670"
+    },
+    {
+        "name": "Familietreffen åpen barnehage",
+        "address": "Nobels gate 32, 0268 Oslo",
+        "lat": "59.9228202",
+        "lon": "10.7004589"
+    },
+    {
+        "name": "Fernanda FUS barnehage",
+        "address": "Fernanda Nissens gate 3, 0484 OSLO",
+        "lat": "59.9461180",
+        "lon": "10.7673460"
+    },
+    {
+        "name": "Fiskevollen musikkbarnehage",
+        "address": "Herregårdsveien 67, 1168 OSLO",
+        "lat": "59.8428760",
+        "lon": "10.7775590"
+    },
+    {
+        "name": "Fjeldlund barnehage",
+        "address": "Holmliveien 2, 1252 OSLO",
+        "lat": "59.8326390",
+        "lon": "10.7939110"
+    },
+    {
+        "name": "Fjellstuveien barnehage",
+        "address": "Fjellstuveien 62, 0982 OSLO",
+        "lat": "59.9587700",
+        "lon": "10.9262440"
+    },
+    {
+        "name": "Fjordbyen barnehage",
+        "address": "Munkedamsveien 62, 0270 OSLO",
+        "lat": "59.9112350",
+        "lon": "10.7184880"
+    },
+    {
+        "name": "Flaen barnehage",
+        "address": "Kalbakkveien 32B, 0953 OSLO",
+        "lat": "59.9537390",
+        "lon": "10.8726720"
+    },
+    {
+        "name": "Forskningsparken Montessori",
+        "address": "Gaustadalleen 5, 0373 OSLO",
+        "lat": "59.9407550",
+        "lon": "10.7160050"
+    },
+    {
+        "name": "Fossekallen barnehage",
+        "address": "Røahellinga 22, 0755 OSLO",
+        "lat": "59.9549400",
+        "lon": "10.6408320"
+    },
+    {
+        "name": "Fossum barnehage",
+        "address": "Tante Ulrikkes vei 8, 0984 OSLO",
+        "lat": "59.9590780",
+        "lon": "10.9174500"
+    },
+    {
+        "name": "Frantsebråten barnehage",
+        "address": "Arnebråtveien 80, 0771 OSLO",
+        "lat": "59.9515860",
+        "lon": "10.6595050"
+    },
+    {
+        "name": "Fredriksborg familiebarnehage",
+        "address": "Fredriksborgveien 18, 0286 OSLO",
+        "lat": "59.9030680",
+        "lon": "10.6875130"
+    },
+    {
+        "name": "Fridheim barnehage",
+        "address": "Professor Dahls gate 29, 0353 OSLO",
+        "lat": "59.9240050",
+        "lon": "10.7173450"
+    },
+    {
+        "name": "Fridtjovsgate barnehage",
+        "address": "Fridtjovs gate 1, 0658 OSLO",
+        "lat": "59.9070860",
+        "lon": "10.7920600"
+    },
+    {
+        "name": "Frierveien barnehage",
+        "address": "Frierveien 18, 1179 OSLO",
+        "lat": "59.8887350",
+        "lon": "10.7750740"
+    },
+    {
+        "name": "Frogner barnehage",
+        "address": "Professor Dahls gate 44, 0260 OSLO",
+        "lat": "59.9248600",
+        "lon": "10.7123440"
+    },
+    {
+        "name": "Frogner International Pre-School",
+        "address": "Fritzners gate 15, 0264 OSLO",
+        "lat": "59.9169490",
+        "lon": "10.7053360"
+    },
+    {
+        "name": "Frognerkilen barnehage",
+        "address": "Gange-Rolvs gate 3, 0273 OSLO",
+        "lat": "59.9159060",
+        "lon": "10.6991470"
+    },
+    {
+        "name": "Fryd barnehage",
+        "address": "Westye Egebergsgate 5, 0177 OSLO",
+        "lat": "59.921814",
+        "lon": "10.747993"
+    },
+    {
+        "name": "Frydenhaug - SiO barnehage",
+        "address": "Sognsveien 165, 0860 OSLO",
+        "lat": "59.9629420",
+        "lon": "10.7343000"
+    },
+    {
+        "name": "Frydenlund barnehage",
+        "address": "Dragonstien 95, 1062 OSLO",
+        "lat": "59.9376140",
+        "lon": "10.9135790"
+    },
+    {
+        "name": "Fuglekongen familiebarnehage",
+        "address": "Frognerseterveien 21b, 0775 OSLO",
+        "lat": "59.9490770",
+        "lon": "10.6933250"
+    },
+    {
+        "name": "Fuglemyra barnehage",
+        "address": "Oppsaltoppen 25, 0687 OSLO",
+        "lat": "59.8990670",
+        "lon": "10.8479090"
+    },
+    {
+        "name": "Furuset åpen barnehage",
+        "address": "Trygve Lies plass 1, 1051 OSLO",
+        "lat": "59.9410672",
+        "lon": "10.8980191"
+    },
+    {
+        "name": "Furustien barnehage",
+        "address": "Trygve Lies plass 4, 1051 OSLO",
+        "lat": "59.9408760",
+        "lon": "10.8953820"
+    },
+    {
+        "name": "Fyrstikkalleen barnehage",
+        "address": "Fyrstikkalleen 21, 0661 OSLO",
+        "lat": "59.9152550",
+        "lon": "10.7943250"
+    },
+    {
+        "name": "Gaia barnehage",
+        "address": "Thorvald Meyers gate 46, 0550 Oslo",
+        "lat": "59.9231090",
+        "lon": "10.7593790"
+    },
+    {
+        "name": "Gamlebyen Urtehagen barnehager",
+        "address": "Oslo gate 17-21, 0192 Oslo",
+        "lat": "59.9068626",
+        "lon": "10.7679544"
+    },
+    {
+        "name": "Gartnerboligen barnehage",
+        "address": "Johan Scharffenbergs vei 91-93, 0694 Oslo",
+        "lat": "59.8644373",
+        "lon": "10.8379818"
+    },
+    {
+        "name": "Gaustadsnippen barnehage",
+        "address": "Rolf E. Stenersens Allè 5, 0858 Oslo",
+        "lat": "59.9521800",
+        "lon": "10.7303530"
+    },
+    {
+        "name": "Giske barnehage",
+        "address": "Giskehagen 58, 0376 Oslo",
+        "lat": "59.9438700",
+        "lon": "10.6896760"
+    },
+    {
+        "name": "Godbiten barnehage",
+        "address": "Holmboes gate 4, 0357 Oslo",
+        "lat": "59.9251940",
+        "lon": "10.7212180"
+    },
+    {
+        "name": "Godlia barnehage",
+        "address": "Solbergliveien 14, 0671 Oslo",
+        "lat": "59.9085994",
+        "lon": "10.8386926"
+    },
+    {
+        "name": "Goliaskogen barnehage",
+        "address": "Vetlandsveien 17, 0671 Oslo",
+        "lat": "59.9103100",
+        "lon": "10.8469780"
+    },
+    {
+        "name": "Gransbakken barnehage",
+        "address": "Gransdalen 22, 1054 Oslo",
+        "lat": "59.9463560",
+        "lon": "10.9007870"
+    },
+    {
+        "name": "Gransletta barnehage",
+        "address": "Gransdalen 35, 1054 Oslo",
+        "lat": "59.9450300",
+        "lon": "10.9004180"
+    },
+    {
+        "name": "Grefsen kirkes barnehage",
+        "address": "Glads vei 47, 0489 Oslo",
+        "lat": "59.9547890",
+        "lon": "10.7766740"
+    },
+    {
+        "name": "Grefsenlyst 14 FUS barnehage",
+        "address": "Grefsenkollveien 14F, 0490 Oslo",
+        "lat": "59.9533190",
+        "lon": "10.7956310"
+    },
+    {
+        "name": "Grefsenlyst FUS barnehage",
+        "address": "Grefsenkollveien 16D, 0490 Oslo",
+        "lat": "59.953577",
+        "lon": "10.796583"
+    },
+    {
+        "name": "Grefsentunet barnehage",
+        "address": "Grefsentunet 1, 0488 Oslo",
+        "lat": "59.9466290",
+        "lon": "10.7881250"
+    },
+    {
+        "name": "Gregers barnehage",
+        "address": "Lørenvangen 10a, 0585 Oslo",
+        "lat": "59.9291570",
+        "lon": "10.7947290"
+    },
+    {
+        "name": "Grindbakken barnehage",
+        "address": "Måltrostveien 108, 0786 Oslo",
+        "lat": "59.9673590",
+        "lon": "10.6475190"
+    },
+    {
+        "name": "Grorud idrettsbarnehage",
+        "address": "Grorudveien 7, 0962 Oslo",
+        "lat": "59.9580710",
+        "lon": "10.8819820"
+    },
+    {
+        "name": "Grorud åpen barnehage",
+        "address": "Ammerudhellinga 47, 0959 OSLO",
+        "lat": "59.9618860",
+        "lon": "10.8775490"
+    },
+    {
+        "name": "Grünerhagen barnehage",
+        "address": "Sofienberggata 3B, 0551 Oslo",
+        "lat": "59.9220940",
+        "lon": "10.7560150"
+    },
+    {
+        "name": "Grünerløkka åpen barnehage er midlertidig stengt",
+        "address": "Mailundveien 23, 0569 Oslo",
+        "lat": "59.9323210",
+        "lon": "10.7776730"
+    },
+    {
+        "name": "Grønland barnehage",
+        "address": "Norbygata 1, 0187 Oslo",
+        "lat": "59.9149550",
+        "lon": "10.7619880"
+    },
+    {
+        "name": "Grønland torg barnehage",
+        "address": "Smalgangen 17-22, 0188 Oslo",
+        "lat": "59.9123010",
+        "lon": "10.7600692"
+    },
+    {
+        "name": "Gullberget barnehage",
+        "address": "Ellen Gleditsch' vei 88, 0987 Oslo",
+        "lat": "59.9670330",
+        "lon": "10.9232130"
+    },
+    {
+        "name": "Gulldalen barnehage",
+        "address": "Lachmanns vei 41, 0495 Oslo",
+        "lat": "59.9656020",
+        "lon": "10.7965820"
+    },
+    {
+        "name": "Gydas Vei barnehage",
+        "address": "Gydas vei 14, 0363 Oslo",
+        "lat": "59.9336100",
+        "lon": "10.7156770"
+    },
+    {
+        "name": "Gårdstunet barnehage",
+        "address": "Plogveien 31 B, 0679 Oslo",
+        "lat": "59.8957690",
+        "lon": "10.8131170"
+    },
+    {
+        "name": "Hakkebakkeskogen familiebarnehage (Daniel Walstads vei)",
+        "address": "Daniel Walstads vei 9, 0493 Oslo",
+        "lat": "59.9633650",
+        "lon": "10.7800710"
+    },
+    {
+        "name": "Hakkebakkeskogen familiebarnehage (Dr. Rustads vei)",
+        "address": "Dr. Rustadsvei 1, 0283 Oslo",
+        "lat": "59.915220",
+        "lon": "10.643396"
+    },
+    {
+        "name": "Hakkebakkeskogen familiebarnehage (Fyrstikkbakken)",
+        "address": "Fyrstikkbakken 22, 0667 Oslo",
+        "lat": "59.9105850",
+        "lon": "10.8276420"
+    },
+    {
+        "name": "Hakkebakkeskogen familiebarnehage (Kastanjeveien)",
+        "address": "Kastanjeveien 8B, 0487 Oslo",
+        "lat": "59.9516990",
+        "lon": "10.7825450"
+    },
+    {
+        "name": "Hakkebakkeskogen familiebarnehage (Kirkesvingen)",
+        "address": "Kirkesvingen 3, 0962 Oslo",
+        "lat": "59.9572240",
+        "lon": "10.8859640"
+    },
+    {
+        "name": "Hakkebakkeskogen familiebarnehage (Kolderups vei 5b)",
+        "address": "Kolderups vei 5B, 0587 Oslo",
+        "lat": "59.9451240",
+        "lon": "10.7919830"
+    },
+    {
+        "name": "Hakkebakkeskogen familiebarnehage (Tåsenveien)",
+        "address": "Tåsenveien 113, 0880 Oslo",
+        "lat": "59.9582980",
+        "lon": "10.7601340"
+    },
+    {
+        "name": "Hakkebakkeskogen familiebarnehage (Ullernveien)",
+        "address": "Ullernveien 9, 0280 Oslo",
+        "lat": "59.9223430",
+        "lon": "10.6605830"
+    },
+    {
+        "name": "Hakkebakkeskogen familiebarnehage (Vækerøveien)",
+        "address": "Vækerøveien 184, 0751 Oslo",
+        "lat": "59.9435460",
+        "lon": "10.6413250"
+    },
+    {
+        "name": "Hakkespetten barnehage",
+        "address": "Huk aveny 55, 0287 Oslo",
+        "lat": "59.9005490",
+        "lon": "10.6807900"
+    },
+    {
+        "name": "Hallagerbakken barnehage",
+        "address": "Ravnåsveien 38, 1254 Oslo",
+        "lat": "59.8364090",
+        "lon": "10.7881710"
+    },
+    {
+        "name": "Hallagerstua barnehage SA",
+        "address": "Hallagerbakken 36, 1256 Oslo",
+        "lat": "59.8392100",
+        "lon": "10.7915520"
+    },
+    {
+        "name": "Hallènparken barnehage",
+        "address": "Christies gate 40-42, 0568 Oslo",
+        "lat": "59.9279769",
+        "lon": "10.7649140"
+    },
+    {
+        "name": "Hamborg barnehage",
+        "address": "Hovseterveien 42C, 0768 Oslo",
+        "lat": "59.9488910",
+        "lon": "10.6498430"
+    },
+    {
+        "name": "Hamborgplassen barnehage",
+        "address": "Langmyrveien 16, 0874 Oslo",
+        "lat": "59.9624770",
+        "lon": "10.7504320"
+    },
+    {
+        "name": "Hammerfestgata barnehage",
+        "address": "Hammerfestgata 12-16, 0560 Oslo",
+        "lat": "59.9254961",
+        "lon": "10.7726448"
+    },
+    {
+        "name": "Hammersborg barnehage",
+        "address": "Damstredet 1-3, 0177 Oslo",
+        "lat": "59.9200745",
+        "lon": "10.7481740"
+    },
+    {
+        "name": "Hamna barnehage",
+        "address": "Professor Dahls gate 30 B, 0260 Oslo",
+        "lat": "59.9235130",
+        "lon": "10.7171770"
+    },
+    {
+        "name": "Harbitz aktivitetsbarnehage",
+        "address": "Harbitzalleen 7, 0275 Oslo",
+        "lat": "59.9251020",
+        "lon": "10.6737000"
+    },
+    {
+        "name": "Hasselhaugen barnehage",
+        "address": "Hasselhaugveien 24, 0851 Oslo",
+        "lat": "59.9376360",
+        "lon": "10.7290220"
+    },
+    {
+        "name": "Hasselkroken Kanvas-barnehage",
+        "address": "Ullernchausseén 72, 0379 Oslo",
+        "lat": "59.9297570",
+        "lon": "10.6587890"
+    },
+    {
+        "name": "Haugen barnehage",
+        "address": "Garver Ytterborgsvei 87, 0977 Oslo",
+        "lat": "59.9520695",
+        "lon": "10.9085992"
+    },
+    {
+        "name": "Haugensjordet barnehage",
+        "address": "Myrerveien 14, 0494 Oslo",
+        "lat": "59.9619360",
+        "lon": "10.7874630"
+    },
+    {
+        "name": "Haugenstien barnehage",
+        "address": "Gransdalen 20, 1054 Oslo",
+        "lat": "59.9468420",
+        "lon": "10.8997910"
+    },
+    {
+        "name": "Haugenstua barnehage",
+        "address": "Garver Ytteborgs vei 97, 0977 Oslo",
+        "lat": "59.9516320",
+        "lon": "10.9143690"
+    },
+    {
+        "name": "Haugenstua skoles barnehage",
+        "address": "Smiuvegen 257, 0981 Oslo",
+        "lat": "59.9543810",
+        "lon": "10.9186680"
+    },
+    {
+        "name": "Haugerud sentrum barnehage",
+        "address": "Haugerudsenteret 45, 0673 Oslo",
+        "lat": "59.9218280",
+        "lon": "10.8580490"
+    },
+    {
+        "name": "Hausmannsgate barnehage",
+        "address": "Mariboes gate 20, 0183 Oslo",
+        "lat": "59.9181880",
+        "lon": "10.7530360"
+    },
+    {
+        "name": "Havnabakken barnehage",
+        "address": "Havnabakken 46, 0874 Oslo",
+        "lat": "59.9626060",
+        "lon": "10.7522480"
+    },
+    {
+        "name": "Havnehagen barnehage",
+        "address": "Lindebergveien 59, 1069 Oslo",
+        "lat": "59.9318200",
+        "lon": "10.8792420"
+    },
+    {
+        "name": "Heftyes barnehage",
+        "address": "Kirkeveien 173, 0455 Oslo",
+        "lat": "59.9353270",
+        "lon": "10.7394970"
+    },
+    {
+        "name": "Hegdehaugen barnehage",
+        "address": "Professor Dahls gate 36, 0260 Oslo",
+        "lat": "59.9237730",
+        "lon": "10.7144170"
+    },
+    {
+        "name": "Heibergløkka barnehage",
+        "address": "Økernveien 4, 0653 Oslo",
+        "lat": "59.9154320",
+        "lon": "10.7760180"
+    },
+    {
+        "name": "Heimvang barnehage",
+        "address": "Slemdalsveien 93, 0373 Oslo",
+        "lat": "59.9478600",
+        "lon": "10.7096630"
+    },
+    {
+        "name": "Helenes barnehage",
+        "address": "Gulleråsveien 5, 0779 Oslo",
+        "lat": "59.9541150",
+        "lon": "10.6996350"
+    },
+    {
+        "name": "Hellerud Barnehage",
+        "address": "Landeroveien 1, 0672 Oslo",
+        "lat": "59.9158260",
+        "lon": "10.8556560"
+    },
+    {
+        "name": "Hellerudtoppen barnehage",
+        "address": "Hellerudgrenda 52, 0672 Oslo",
+        "lat": "59.9107970",
+        "lon": "10.8598930"
+    },
+    {
+        "name": "Hjelmsgate barnehage",
+        "address": "Hjelms gate 3, 0355 Oslo",
+        "lat": "59.9249890",
+        "lon": "10.7217260"
+    },
+    {
+        "name": "Hoff terrasse barnehage",
+        "address": "Hoff terrasse 18, 0275 Oslo",
+        "lat": "59.9262700",
+        "lon": "10.6724810"
+    },
+    {
+        "name": "Hoffsgrenda borettslagsbarnehage",
+        "address": "Skøyen terrasse 21, 0276 Oslo",
+        "lat": "59.9270580",
+        "lon": "10.6818250"
+    },
+    {
+        "name": "Holgerslyst barnehage",
+        "address": "Blokkaveien 14, 0282 Oslo",
+        "lat": "59.9244160",
+        "lon": "10.6541010"
+    },
+    {
+        "name": "Holmen Kanvas-barnehage",
+        "address": "Holmenveien 47E, 0376 Oslo",
+        "lat": "59.9443880",
+        "lon": "10.6856740"
+    },
+    {
+        "name": "Holmenveien barnehage",
+        "address": "Holmenveien 19, 0374 Oslo",
+        "lat": "59.9442020",
+        "lon": "10.6973730"
+    },
+    {
+        "name": "Holmsåsen FUS barnehage AS",
+        "address": "Holmsåsen 59, 1259 Oslo",
+        "lat": "59.8266290",
+        "lon": "10.8019010"
+    },
+    {
+        "name": "Holtet barnehage",
+        "address": "Olav Nygards veg 65, 0688 Oslo",
+        "lat": "59.8849940",
+        "lon": "10.8548550"
+    },
+    {
+        "name": "Homansbyen åpen barnehage",
+        "address": "Hegdehaugsveien 19, 0352 Oslo",
+        "lat": "59.9205520",
+        "lon": "10.7300290"
+    },
+    {
+        "name": "Hompetitten Kanvas-barnehage",
+        "address": "Gaustadveien 21C, 0372 Oslo",
+        "lat": "59.9547060",
+        "lon": "10.7212620"
+    },
+    {
+        "name": "Hov - Meklenborg barnehage",
+        "address": "Hovseterveien 62, 0768 Oslo",
+        "lat": "59.9501410",
+        "lon": "10.6511770"
+    },
+    {
+        "name": "Hovin barnehage",
+        "address": "St. Jørgens vei 61B, 0662 Oslo",
+        "lat": "59.9222890",
+        "lon": "10.7982290"
+    },
+    {
+        "name": "Hovinenga barnehage",
+        "address": "Innspurten 12E, 0663 Oslo",
+        "lat": "59.9164750",
+        "lon": "10.8032780"
+    },
+    {
+        "name": "Hovseter barnehage",
+        "address": "Hovseterveien 98, 0768 Oslo",
+        "lat": "59.9519850",
+        "lon": "10.6559780"
+    },
+    {
+        "name": "Hullebergmyra barnehage",
+        "address": "Lilleakerveien 60B, 0284 Oslo",
+        "lat": "59.9251120",
+        "lon": "10.6393640"
+    },
+    {
+        "name": "Humlebakken språk- og familiehage",
+        "address": "Sverre Iversens vei 19 b, 0972 Oslo",
+        "lat": "59.9707639",
+        "lon": "10.8952714"
+    },
+    {
+        "name": "Humlen Montessoribarnehage",
+        "address": "Vettaliveien 6, 0781 Oslo",
+        "lat": "59.9631420",
+        "lon": "10.6907020"
+    },
+    {
+        "name": "Hurdalsgata barnehage",
+        "address": "Hurdalsgata 6, 0655 Oslo",
+        "lat": "59.9098770",
+        "lon": "10.7809920"
+    },
+    {
+        "name": "Huseby barnehage",
+        "address": "Sørkedalsveien 150 C, 0754 Oslo",
+        "lat": "59.9416890",
+        "lon": "10.6560780"
+    },
+    {
+        "name": "Husebygrenda barnehage",
+        "address": "Husebygrenda 20, 0378 Oslo",
+        "lat": "59.9427190",
+        "lon": "10.6648300"
+    },
+    {
+        "name": "Husmannsplassen barnehage",
+        "address": "Manglebergveien 9, 0678 Oslo",
+        "lat": "59.9004540",
+        "lon": "10.8091650"
+    },
+    {
+        "name": "Hvitveisen barnehage",
+        "address": "Ivar Aasens vei 10, 0373 Oslo",
+        "lat": "59.9398270",
+        "lon": "10.7072090"
+    },
+    {
+        "name": "Idun FUS barnehage",
+        "address": "Lillogata 4, 0477 OSLO",
+        "lat": "59.9415890",
+        "lon": "10.7678010"
+    },
+    {
+        "name": "Ingvilds barnehage Bestumveien",
+        "address": "Bestumveien 43, 0281 OSLO",
+        "lat": "59.9221230",
+        "lon": "10.6559560"
+    },
+    {
+        "name": "Ingvilds barnehage Holgerslystveien",
+        "address": "holgerslystveien 10C, 0280 OSLO",
+        "lat": "59.9224850",
+        "lon": "10.6531770"
+    },
+    {
+        "name": "Internasjonal kulturbarnehage Enebakkveien",
+        "address": "Enebakkveien 22, 0657 OSLO",
+        "lat": "59.9069060",
+        "lon": "10.7828050"
+    },
+    {
+        "name": "Internasjonal kulturbarnehage Åkeberg",
+        "address": "Åkebergveien 23, 0650 OSLO",
+        "lat": "59.9081910",
+        "lon": "10.7781530"
+    },
+    {
+        "name": "Jarbakken barnehage",
+        "address": "Landingsveien 27, 0771 OSLO",
+        "lat": "59.9529880",
+        "lon": "10.6567165"
+    },
+    {
+        "name": "Jeppes familiebarnehage (Holmenkollveien)",
+        "address": "Holmenkollveien 59, 0784 OSLO",
+        "lat": "59.9541621",
+        "lon": "10.6694681"
+    },
+    {
+        "name": "Jeriko private barnehage",
+        "address": "Jerikoveien 65, 1067 OSLO",
+        "lat": "59.9350870",
+        "lon": "10.8888410"
+    },
+    {
+        "name": "Jettegryta barnehage",
+        "address": "Gamle Bygdevei 25, 1284 OSLO",
+        "lat": "59.8520030",
+        "lon": "10.8285520"
+    },
+    {
+        "name": "Jordal barnehage",
+        "address": "Jordalgata 11, 0657 Oslo",
+        "lat": "59.9089100",
+        "lon": "10.7853630"
+    },
+    {
+        "name": "Julius barnehage",
+        "address": "Middelthuns gate 17b, 0368 Oslo",
+        "lat": "59.9279850",
+        "lon": "10.7117480"
+    },
+    {
+        "name": "Jutul Kanvas-barnehage",
+        "address": "Kirkeveien 166, 0407 OSLO",
+        "lat": "59.9369360",
+        "lon": "10.7370580"
+    },
+    {
+        "name": "Kampen barnehage",
+        "address": "Skedsmogata 19B, 0665 OSLO",
+        "lat": "59.9127840",
+        "lon": "10.7847750"
+    },
+    {
+        "name": "Kampen kunstbarnehage",
+        "address": "Sonsgt. 2, 0654 OSLO",
+        "lat": "59.9157487",
+        "lon": "10.7816091"
+    },
+    {
+        "name": "Kantarellen avd. Furukvisten for barn med spesielle behov",
+        "address": "Mortensrudveien 200, 1283 OSLO",
+        "lat": "59.8489320",
+        "lon": "10.8142460"
+    },
+    {
+        "name": "Kantarellen barnehage",
+        "address": "Mortensrudveien 200, 1283 OSLO",
+        "lat": "59.8489320",
+        "lon": "10.8142460"
+    },
+    {
+        "name": "Kardemomme barnehage",
+        "address": "Skedsmogata 21, 0665 OSLO",
+        "lat": "59.9124610",
+        "lon": "10.7851240"
+    },
+    {
+        "name": "Karen Aasumb barnehage",
+        "address": "Ellen Gleditsch' vei 58, 0987 OSLO",
+        "lat": "59.9671600",
+        "lon": "10.9218940"
+    },
+    {
+        "name": "Karihaugen barnehage",
+        "address": "Harald Sohlbergs vei 10, 1064 OSLO",
+        "lat": "59.9353980",
+        "lon": "10.9238860"
+    },
+    {
+        "name": "Karlsrud familiebarnehage",
+        "address": "Bernt Knudsens vei 10 B, 1176 OSLO",
+        "lat": "59.8782550",
+        "lon": "10.8019790"
+    },
+    {
+        "name": "Karlstua barnehage",
+        "address": "Hagapynten 5, 0673 OSLO",
+        "lat": "59.9203320",
+        "lon": "10.8521630"
+    },
+    {
+        "name": "Kastellterrassen Kanvas-barnehage",
+        "address": "Nordseter terrasse 33, 1163 OSLO",
+        "lat": "59.8671120",
+        "lon": "10.8017510"
+    },
+    {
+        "name": "Katta barnehage",
+        "address": "Pilestredet park 13, 0176 OSLO",
+        "lat": "59.9215020",
+        "lon": "10.7410460"
+    },
+    {
+        "name": "Kattugla Steinerbarnehage",
+        "address": "Arnebråtveien 110, 0771 OSLO",
+        "lat": "59.9530360",
+        "lon": "10.6584280"
+    },
+    {
+        "name": "Keyserløkka barnehage",
+        "address": "Einars vei 7, 0575 OSLO",
+        "lat": "59.9231420",
+        "lon": "10.7850180"
+    },
+    {
+        "name": "Kia integreringsbarnehage",
+        "address": "",
+        "lat": "59.9161682",
+        "lon": "10.7574882"
+    },
+    {
+        "name": "Kilden barnehage",
+        "address": "Kildeveien 42, 0591 Oslo",
+        "lat": "59.9493260",
+        "lon": "10.8207940"
+    },
+    {
+        "name": "Kirsebærjordet barnehage",
+        "address": "Blindernveien 3B, 0361 OSLO",
+        "lat": "59.9355680",
+        "lon": "10.7273220"
+    },
+    {
+        "name": "Kjelsås skole barnehage",
+        "address": "Asbjørnsens vei 3, 0494 OSLO",
+        "lat": "59.9654440",
+        "lon": "10.7851090"
+    },
+    {
+        "name": "Kjosjordet barnehage",
+        "address": "Ullern allè 3, 0381 OSLO",
+        "lat": "59.9264790",
+        "lon": "10.6436850"
+    },
+    {
+        "name": "Klatremus familiebarnehage avd. Knerten",
+        "address": "Holmenveien 61, 0376 OSLO",
+        "lat": "59.9423800",
+        "lon": "10.6846600"
+    },
+    {
+        "name": "Klossen - SiO barnehage",
+        "address": "Olav M. Troviks vei 32, 0864 OSLO",
+        "lat": "59.9642780",
+        "lon": "10.7289600"
+    },
+    {
+        "name": "Kløfterhagen private barnehage",
+        "address": "Jerikoveien 65, 1067 OSLO",
+        "lat": "59.9350870",
+        "lon": "10.8888410"
+    },
+    {
+        "name": "Knausen barnehage",
+        "address": "Radarveien 77B, 1152 OSLO",
+        "lat": "59.8765080",
+        "lon": "10.8061900"
+    },
+    {
+        "name": "Knærten familiebarnehage",
+        "address": "Fugleliveien 19 c, 0667 OSLO",
+        "lat": "59.9016260",
+        "lon": "10.8267030"
+    },
+    {
+        "name": "Knøttene familiebarnehage",
+        "address": "Lindebergåsen 33, 1071 OSLO",
+        "lat": "59.9293500",
+        "lon": "10.8748790"
+    },
+    {
+        "name": "Kolåsbakken barnehage",
+        "address": "Rødbergveien 68, 0593 OSLO",
+        "lat": "59.9453410",
+        "lon": "10.8304690"
+    },
+    {
+        "name": "Kongeskogen barnehage",
+        "address": "Strømsborgveien 12, 0287 OSLO",
+        "lat": "59.9050070",
+        "lon": "10.6763640"
+    },
+    {
+        "name": "Kongeørnen barnehage",
+        "address": "Doktor Holms vei 3, 0787 OSLO",
+        "lat": "59.9599010",
+        "lon": "10.6767210"
+    },
+    {
+        "name": "Kongsberggata barnehage",
+        "address": "Kongsberggata 19 -21, 0486 OSLO",
+        "lat": "59.9410806",
+        "lon": "10.7618174"
+    },
+    {
+        "name": "Kongsveien Barnehage",
+        "address": "Kongsveien 49, 1177 OSLO",
+        "lat": "59.8856410",
+        "lon": "10.7739280"
+    },
+    {
+        "name": "Korsvollhallen barnehage",
+        "address": "Åmotveien 9, 0880 Oslo",
+        "lat": "59.9608750",
+        "lon": "10.7569460"
+    },
+    {
+        "name": "Kragskogen barnehage SA",
+        "address": "Olav Aukrusts vei 18, 0785 OSLO",
+        "lat": "59.9536960",
+        "lon": "10.6606300"
+    },
+    {
+        "name": "Krydderhagen barnehage",
+        "address": "Bøkkerveien 16 B og C, 0579 OSLO",
+        "lat": "59.9281017",
+        "lon": "10.7956232"
+    },
+    {
+        "name": "Kulturparken FUS barnehage",
+        "address": "Sofienberggata 58, 0563 OSLO",
+        "lat": "59.9209160",
+        "lon": "10.7762220"
+    },
+    {
+        "name": "Kurland barnehage",
+        "address": "Ulsholtveien 66, 1053 OSLO",
+        "lat": "59.9420260",
+        "lon": "10.8904000"
+    },
+    {
+        "name": "Kvernkallen barnehage",
+        "address": "Kvernkallveien 11, 0382 OSLO",
+        "lat": "59.9288090",
+        "lon": "10.6340120"
+    },
+    {
+        "name": "Kværnerbyen FUS barnehage",
+        "address": "Turbinveien 32, 0195 OSLO",
+        "lat": "59.9031380",
+        "lon": "10.7886720"
+    },
+    {
+        "name": "Kværnerdalen barnehage",
+        "address": "Enebakkveien 71, 0196 OSLO",
+        "lat": "59.9033440",
+        "lon": "10.7918590"
+    },
+    {
+        "name": "Lakkegården barnehage",
+        "address": "Heimdalsgata 19-21, 0561 OSLO",
+        "lat": "59.9155671",
+        "lon": "10.7654666"
+    },
+    {
+        "name": "Landingsveien  barnehage",
+        "address": "Landingsveien 62, 0767 OSLO",
+        "lat": "59.9524740",
+        "lon": "10.6527610"
+    },
+    {
+        "name": "Langleiken barnehage",
+        "address": "Enerhauggata 2, 0651 OSLO",
+        "lat": "59.9136650",
+        "lon": "10.7691270"
+    },
+    {
+        "name": "Langmyrgrenda barnehage",
+        "address": "Peder Ankers vei 20, 0861 OSLO",
+        "lat": "59.9644980",
+        "lon": "10.7490520"
+    },
+    {
+        "name": "Lerdal barnehage",
+        "address": "Berglyveien 2B, 1263 OSLO",
+        "lat": "59.8365050",
+        "lon": "10.8059010"
+    },
+    {
+        "name": "Lia barnehage",
+        "address": "Harald Sohlbergsvei 19, 1064 OSLO",
+        "lat": "59.9360463",
+        "lon": "10.9204302"
+    },
+    {
+        "name": "Liabakken barnehage",
+        "address": "Olaf Bulls vei 50, 0765 OSLO",
+        "lat": "59.9687700",
+        "lon": "10.6430930"
+    },
+    {
+        "name": "Lille Bislett - Sio barnehage AS",
+        "address": "Dalsbergstien 22F, 0170 OSLO",
+        "lat": "59.9229650",
+        "lon": "10.7343060"
+    },
+    {
+        "name": "Lille Ekeberg barnehage",
+        "address": "Barnehjemsveien 2, 1181 OSLO",
+        "lat": "59.8982040",
+        "lon": "10.7860750"
+    },
+    {
+        "name": "Lille Grønland Urtehagen barnehager",
+        "address": "Lakkegata 19, 0187 OSLO",
+        "lat": "59.9161985",
+        "lon": "10.7623123"
+    },
+    {
+        "name": "Lille Langerud barnehage",
+        "address": "Langerudhaugen 10, 1187 OSLO",
+        "lat": "59.8786700",
+        "lon": "10.8291600"
+    },
+    {
+        "name": "Lille My Familiebarnehage",
+        "address": "Bestumveien 26, 0281 OSLO",
+        "lat": "59.9207840",
+        "lon": "10.6610240"
+    },
+    {
+        "name": "Lille Venn familiebarnehage",
+        "address": "Steinliveien 8, 1185 OSLO",
+        "lat": "59.8839080",
+        "lon": "10.8069670"
+    },
+    {
+        "name": "Lille-Bamsebo - SiO barnehage",
+        "address": "Apalveien 21, 0371 OSLO",
+        "lat": "59.9357490",
+        "lon": "10.7169920"
+    },
+    {
+        "name": "Lilleaker barnehage",
+        "address": "Sponhoggbakken 3, 0284 OSLO",
+        "lat": "59.9235950",
+        "lon": "10.6314840"
+    },
+    {
+        "name": "Lilleborg barnehage",
+        "address": "Åsengata 22, 0480 OSLO",
+        "lat": "59.9386840",
+        "lon": "10.7713730"
+    },
+    {
+        "name": "Lilleslottet barnehage",
+        "address": "Odvar Solbergs vei 176C, 0973 OSLO",
+        "lat": "59.9703240",
+        "lon": "10.9031210"
+    },
+    {
+        "name": "Lillo gård barnehage",
+        "address": "Sandakerveien 100, HUS G, 0483 OSLO",
+        "lat": "59.944755",
+        "lon": "10.7701041"
+    },
+    {
+        "name": "Lillohagen FUS barnehage",
+        "address": "Birch-Reichenwalds gate 2D, 0483 OSLO",
+        "lat": "59.9442280",
+        "lon": "10.7726960"
+    },
+    {
+        "name": "Lillohøyden FUS barnehage",
+        "address": "Fernanda Nissens gate 8, 0484 OSLO",
+        "lat": "59.9455210",
+        "lon": "10.7687570"
+    },
+    {
+        "name": "Lillomarka Kanvas-barnehage",
+        "address": "Hukenveien 12, 0963 OSLO",
+        "lat": "59.9701040",
+        "lon": "10.8764840"
+    },
+    {
+        "name": "Lindebergskogen barnehage",
+        "address": "Lindebergveien 41, 1069 OSLO",
+        "lat": "59.9316920",
+        "lon": "10.8768730"
+    },
+    {
+        "name": "Lindebergstua Kanvas-barnehage",
+        "address": "Lindebergveien 31, 1069 OSLO",
+        "lat": "59.9305600",
+        "lon": "10.8781690"
+    },
+    {
+        "name": "Lindekroken Kanvas-barnehage",
+        "address": "Kirkeveien 166, 0450 OSLO",
+        "lat": "59.9369360",
+        "lon": "10.7370580"
+    },
+    {
+        "name": "Linden Steinerbarnehage",
+        "address": "Hoffsveien 41, 0377 OSLO",
+        "lat": "59.9317410",
+        "lon": "10.6766040"
+    },
+    {
+        "name": "Linderud gård barnehage",
+        "address": "Erich Mogensøns vei 40, 0594 OSLO",
+        "lat": "59.9420170",
+        "lon": "10.8357270"
+    },
+    {
+        "name": "Linjen barnehage",
+        "address": "Haugenstuveien 52, 1084 OSLO",
+        "lat": "59.9512020",
+        "lon": "10.9081130"
+    },
+    {
+        "name": "Ljabru Gård Steinerbarnehage",
+        "address": "Ljabruveien 90, 1266 OSLO",
+        "lat": "59.8495570",
+        "lon": "10.8033900"
+    },
+    {
+        "name": "Ljan kirkes barnehage",
+        "address": "Furumoen 18 A, 1168 OSLO",
+        "lat": "59.8458010",
+        "lon": "10.7850340"
+    },
+    {
+        "name": "Lofsrud barnehage",
+        "address": "Lofsrudhøgda 212, 1281 Oslo",
+        "lat": "59.8454520",
+        "lon": "10.8274970"
+    },
+    {
+        "name": "Lohøgda barnehage",
+        "address": "Erlends vei 31, 0669 OSLO",
+        "lat": "59.9172980",
+        "lon": "10.8415710"
+    },
+    {
+        "name": "Lopperud barnehage",
+        "address": "Paal Bergs vei 165, 1188 OSLO",
+        "lat": "59.8734420",
+        "lon": "10.8337310"
+    },
+    {
+        "name": "Lovisenberg Diakonale barnehage AS",
+        "address": "Lovisenberggata 7A, 0456 OSLO",
+        "lat": "59.9321760",
+        "lon": "10.7441610"
+    },
+    {
+        "name": "Lunden barnehage",
+        "address": "Lunden 22, 0598 OSLO",
+        "lat": "59.9386570",
+        "lon": "10.8318900"
+    },
+    {
+        "name": "Lutvannskollen barnehage",
+        "address": "Ole Reistads vei 37E, 1068 OSLO",
+        "lat": "59.9261770",
+        "lon": "10.8781890"
+    },
+    {
+        "name": "Lycee Francais René Cassin – Den franske barnehagen i Oslo",
+        "address": "Skovveien 9, 0257 OSLO",
+        "lat": "59.9170180",
+        "lon": "10.7172880"
+    },
+    {
+        "name": "Lykketrollet barnehage",
+        "address": "Dalbakkveien 39, 0682 OSLO",
+        "lat": "59.9043880",
+        "lon": "10.8302160"
+    },
+    {
+        "name": "Lykketrollet familiebarnehage (Bentsegata 6)",
+        "address": "",
+        "lat": "59.9379372",
+        "lon": "10.7580183"
+    },
+    {
+        "name": "Lykketrollet familiebarnehage (Anna Rogstadsvei)",
+        "address": "Anna Rogstads vei 43B, 0592 OSLO",
+        "lat": "59.9499880",
+        "lon": "10.8302230"
+    },
+    {
+        "name": "Lykketrollet familiebarnehage (Bogerudveien 25)",
+        "address": "Bogerudveien 25, 0692 OSLO",
+        "lat": "59.8768140",
+        "lon": "10.8379910"
+    },
+    {
+        "name": "Lykketrollet familiebarnehage (Bogerudveien 27)",
+        "address": "Bogerudveien 27, 0692 OSLO",
+        "lat": "59.8767130",
+        "lon": "10.8381460"
+    },
+    {
+        "name": "Lykketrollet familiebarnehage (Dalbakkveien 14)",
+        "address": "Dalbakkveien 14, 0682 OSLO",
+        "lat": "59.9071610",
+        "lon": "10.8317100"
+    },
+    {
+        "name": "Lykketrollet familiebarnehage (Eltonveien)",
+        "address": "Eltonveien 8, 0586 OSLO",
+        "lat": "59.9399369",
+        "lon": "10.8010360"
+    },
+    {
+        "name": "Lykketrollet familiebarnehage (Frydensgate)",
+        "address": "Frydens gate 2B, 0552 OSLO",
+        "lat": "59.9252580",
+        "lon": "10.7766330"
+    },
+    {
+        "name": "Lykketrollet familiebarnehage (Kildeveien)",
+        "address": "Kildeveien 10, 0590 OSLO",
+        "lat": "59.9478010",
+        "lon": "10.8057880"
+    },
+    {
+        "name": "Lykketrollet familiebarnehage (Krokliveien)",
+        "address": "Krokliveien 9A, 0584 OSLO",
+        "lat": "59.9377000",
+        "lon": "10.8179480"
+    },
+    {
+        "name": "Lykketrollet familiebarnehage (Stordamveien)",
+        "address": "Stordamveien 34c, 0671 OSLO",
+        "lat": "59.9112640",
+        "lon": "10.8453140"
+    },
+    {
+        "name": "Lykketrollet familiebarnehage (Sverdrups gate)",
+        "address": "Sverdrups Gate 18, 0559 OSLO",
+        "lat": "59.9209040",
+        "lon": "10.7657000"
+    },
+    {
+        "name": "Lykketrollet familiebarnehage (Ulsrudveien)",
+        "address": "Ulsrudveien 38, 0690 OSLO",
+        "lat": "59.8893070",
+        "lon": "10.8478280"
+    },
+    {
+        "name": "Lykketrollet familiebarnehage (Vogts gate 32 A)",
+        "address": "Vogts gate 32 A, 0474 Oslo",
+        "lat": "59.9327130",
+        "lon": "10.7625360"
+    },
+    {
+        "name": "Lykketrollet familiebarnehage (Vogts gate 32 B)",
+        "address": "Vogts gate 32 B, 0474 Oslo",
+        "lat": "59.9327840",
+        "lon": "10.7625930"
+    },
+    {
+        "name": "Lykketrollet familiebarnehage (Vogts gate 32 C)",
+        "address": "Vogts gate 32 C, 0474 Oslo",
+        "lat": "59.9327340",
+        "lon": "10.7623400"
+    },
+    {
+        "name": "Lykketrollet familiebarnehage (Åkerøveien)",
+        "address": "Åkerøveien 2, 0586 OSLO",
+        "lat": "59.9358280",
+        "lon": "10.7946490"
+    },
+    {
+        "name": "Låvesvalen familiebarnehage",
+        "address": "Sørkedalsveien 779, 0758 OSLO",
+        "lat": "59.9990720",
+        "lon": "10.6227156"
+    },
+    {
+        "name": "Læringsverkstedet Bjerke Panorama",
+        "address": "Refstadveien 34, 0589 OSLO",
+        "lat": "59.9414200",
+        "lon": "10.8080190"
+    },
+    {
+        "name": "Læringsverkstedet Bryn estetiske barnehage",
+        "address": "Ole Deviks vei 19, 0666 OSLO",
+        "lat": "59.9160220",
+        "lon": "10.8255270"
+    },
+    {
+        "name": "Læringsverkstedet DoReMi Myrens barnehage",
+        "address": "Sandakerveien 18, 0473 OSLO",
+        "lat": "59.9334690",
+        "lon": "10.7595940"
+    },
+    {
+        "name": "Læringsverkstedet DoReMi Torshovhagen barnehage (avvikles 1.7.2026)",
+        "address": "Vossegata 29, 0475 oslo",
+        "lat": "59.9327250",
+        "lon": "10.7718070"
+    },
+    {
+        "name": "Læringsverkstedet Grefsen terrasse barnehage",
+        "address": "Grefsenkollveien 12 A, 0490 OSLO",
+        "lat": "59.9540810",
+        "lon": "10.7961000"
+    },
+    {
+        "name": "Læringsverkstedet Haugerudhagan barnehage",
+        "address": "Haugerudhagan 11D, 0673 OSLO",
+        "lat": "59.9191840",
+        "lon": "10.8505660"
+    },
+    {
+        "name": "Læringsverkstedet Hauketo barnehage",
+        "address": "Øvre Prinsdals vei 34 d, 1266 OSLO",
+        "lat": "59.8413280",
+        "lon": "10.8119930"
+    },
+    {
+        "name": "Læringsverkstedet Konfektfabrikken",
+        "address": "Stockholmgata 7, 0566 OSLO",
+        "lat": "59.9261900",
+        "lon": "10.7676080"
+    },
+    {
+        "name": "Læringsverkstedet Langaard barnehage",
+        "address": "Lille Bislett 28, 0170 OSLO",
+        "lat": "59.9237220",
+        "lon": "10.7320910"
+    },
+    {
+        "name": "Læringsverkstedet Langbølgen barnehage",
+        "address": "Mikrobølgen 25, 1150 OSLO",
+        "lat": "59.8675290",
+        "lon": "10.8130720"
+    },
+    {
+        "name": "Læringsverkstedet Mortensrud barnehage",
+        "address": "Helga Vanekesvei 3H, 1281 OSLO",
+        "lat": "59.848262",
+        "lon": "10.8307681"
+    },
+    {
+        "name": "Læringsverkstedet Munkebekken idrettsbarnehage",
+        "address": "Munkebekken 292, 1061 OSLO",
+        "lat": "59.9311701",
+        "lon": "10.9143498"
+    },
+    {
+        "name": "Læringsverkstedet Nonneseter idrettsbarnehage",
+        "address": "Grønlandsleiret 71, 0190 OSLO",
+        "lat": "59.9127862",
+        "lon": "10.7621764"
+    },
+    {
+        "name": "Læringsverkstedet Slalåmveien barnehage",
+        "address": "Slalåmveien 10, 0380 OSLO",
+        "lat": "59.9337360",
+        "lon": "10.6530470"
+    },
+    {
+        "name": "Læringsverkstedet Ullern barnehage",
+        "address": "Sponhoggveien 1, 0284 OSLO",
+        "lat": "59.9213600",
+        "lon": "10.6350230"
+    },
+    {
+        "name": "Læringsverkstedet Vestskrenten Idrettsbarnehage",
+        "address": "Lusetjernveien 40, 1253 OSLO",
+        "lat": "59.8325910",
+        "lon": "10.7836130"
+    },
+    {
+        "name": "Læringsverkstedet Waldemars barnehage",
+        "address": "Darres gate 26, 0175 OSLO",
+        "lat": "59.9278020",
+        "lon": "10.7530060"
+    },
+    {
+        "name": "Læringsverkstedet Årvollveien barnehage",
+        "address": "Bård skolemesters vei 30, 0590 OSLO",
+        "lat": "59.9456920",
+        "lon": "10.8135150"
+    },
+    {
+        "name": "Løkkeberg barnehage",
+        "address": "Lovisenberggata 15L, 0456 OSLO",
+        "lat": "59.9334730",
+        "lon": "10.7487740"
+    },
+    {
+        "name": "Løren Botaniske barnehage",
+        "address": "Børsteveien 35, 0585 Oslo",
+        "lat": "59.9332040",
+        "lon": "10.7936040"
+    },
+    {
+        "name": "Lørensvingen barnehage",
+        "address": "Lørenveien 11, 0585 OSLO",
+        "lat": "59.9324576",
+        "lon": "10.7875627"
+    },
+    {
+        "name": "Madamløkken barnehage",
+        "address": "Erich Mogensøns vei 40, 0594 OSLO",
+        "lat": "59.9420170",
+        "lon": "10.8357270"
+    },
+    {
+        "name": "Mads barnehage",
+        "address": "Arnstein Arnebergs vei 17, 0274 OSLO",
+        "lat": "59.9274570",
+        "lon": "10.6934580"
+    },
+    {
+        "name": "Malerhaugen barnehage",
+        "address": "Malerhaugveien 20, 0661 OSLO",
+        "lat": "59.9144290",
+        "lon": "10.7926210"
+    },
+    {
+        "name": "Malmøya barnehage",
+        "address": "Høyboveien 11A, 0198 OSLO",
+        "lat": "59.8697079",
+        "lon": "10.7585869"
+    },
+    {
+        "name": "Mangelberget barnehage",
+        "address": "Plogveien 24 A, 0681 OSLO",
+        "lat": "59.8939680",
+        "lon": "10.8221660"
+    },
+    {
+        "name": "Manglerud barnehage",
+        "address": "Magnefaret 13B, 0678 OSLO",
+        "lat": "59.9012070",
+        "lon": "10.8049210"
+    },
+    {
+        "name": "Margarinfabrikken barnehage",
+        "address": "Stavangergata 40 og 42, 0467 OSLO",
+        "lat": "59.94301",
+        "lon": "10.7566702"
+    },
+    {
+        "name": "Mariannes Hus familiebarnehage",
+        "address": "Solveien 16, 1177 OSLO",
+        "lat": "59.8803580",
+        "lon": "10.7794180"
+    },
+    {
+        "name": "Maridalen barnehage",
+        "address": "Kasaveien 1, 0890 OSLO",
+        "lat": "60.0051590",
+        "lon": "10.7731160"
+    },
+    {
+        "name": "Maridalsveien barnehage",
+        "address": "Maridalsveien 145, 0461 OSLO",
+        "lat": "59.9368590",
+        "lon": "10.7560800"
+    },
+    {
+        "name": "Marienlyst Gård barnehage",
+        "address": "Blindernveien 10, 0361 OSLO",
+        "lat": "59.9348520",
+        "lon": "10.7243850"
+    },
+    {
+        "name": "Marihøna familiebarnehage",
+        "address": "Maridalsveien 140, 0461 OSLO",
+        "lat": "59.9363170",
+        "lon": "10.7556220"
+    },
+    {
+        "name": "Marmorberget barnehage",
+        "address": "Feltspatveien 16, 1155 OSLO",
+        "lat": "59.8741630",
+        "lon": "10.8199790"
+    },
+    {
+        "name": "Maurtua familiebarnehage, avd. Edgren",
+        "address": "Kryssveien 10B, 0583 OSLO",
+        "lat": "59.9360790",
+        "lon": "10.8195950"
+    },
+    {
+        "name": "Maurtua Private familiebarnehage, avd. Beverveien",
+        "address": "Beverveien 25, 0596 OSLO",
+        "lat": "59.9428140",
+        "lon": "10.8487150"
+    },
+    {
+        "name": "Maurtua Private familiebarnehage, avd. Nordalveien",
+        "address": "Nordalveien 34B, 0583 OSLO",
+        "lat": "59.9346250",
+        "lon": "10.8143070"
+    },
+    {
+        "name": "Maurtua Private familiebarnehage, avd. Rabbeveien",
+        "address": "Rabbeveien 15, 0580 OSLO",
+        "lat": "59.9316200",
+        "lon": "10.8141340"
+    },
+    {
+        "name": "Melkeveien barnehage",
+        "address": "Schwensens gate 9B, 0170 OSLO",
+        "lat": "59.9238930",
+        "lon": "10.7389170"
+    },
+    {
+        "name": "Mellombølgen barnehage",
+        "address": "Mellombølgen 133, 1157 OSLO",
+        "lat": "59.8655980",
+        "lon": "10.8174790"
+    },
+    {
+        "name": "Merkur familiebarnehage",
+        "address": "Oberst Rodes vei 27B, 1152 OSLO",
+        "lat": "59.8734390",
+        "lon": "10.8053800"
+    },
+    {
+        "name": "Midtstuen Kanvas-barnehage",
+        "address": "Midtstugrenda 60, 0787 OSLO",
+        "lat": "59.9616820",
+        "lon": "10.6789230"
+    },
+    {
+        "name": "Mikaelgården steinerbarnehage",
+        "address": "Bølerlia 3B, 0691 OSLO",
+        "lat": "59.8826390",
+        "lon": "10.8433360"
+    },
+    {
+        "name": "Montessoribarnehagen Solsikken Gladheim",
+        "address": "Holmenkollveien 127, 0787 OSLO",
+        "lat": "59.9611710",
+        "lon": "10.6725900"
+    },
+    {
+        "name": "Montessoribarnehagen Solsikken Knerten",
+        "address": "Røatoppen 15, 0756 OSLO",
+        "lat": "59.9539010",
+        "lon": "10.6355340"
+    },
+    {
+        "name": "Montessoribarnehagen Solsikken Lilleputt",
+        "address": "Ullernkammen 15, 0380 OSLO",
+        "lat": "59.9360100",
+        "lon": "10.6529080"
+    },
+    {
+        "name": "Montessoribarnehagen Solsikken Låven",
+        "address": "Grimelundshaugen 12, 0374 OSLO",
+        "lat": "59.9428890",
+        "lon": "10.6918820"
+    },
+    {
+        "name": "Montessoribarnehagen Solsikken Maristova",
+        "address": "Maridalsveien 254, 0862 OSLO",
+        "lat": "59.9460760",
+        "lon": "10.7599870"
+    },
+    {
+        "name": "Montessoribarnehagen Solsikken Sognestuen",
+        "address": "Folke Bernadottes vei 2, 0874 OSLO",
+        "lat": "59.9639980",
+        "lon": "10.7375340"
+    },
+    {
+        "name": "Montessoribarnehagen Solsikken Solkroken",
+        "address": "Melumveien 68D, 0760 OSLO",
+        "lat": "59.9477220",
+        "lon": "10.6377000"
+    },
+    {
+        "name": "Mor Go'hjertas barnehage",
+        "address": "Maridalsveien 227E, 0467 OSLO",
+        "lat": "59.9453460",
+        "lon": "10.7641910"
+    },
+    {
+        "name": "Mosaikk Urtehagen barnehager",
+        "address": "Norbygata 34, 0187 OSLO",
+        "lat": "59.9142810",
+        "lon": "10.7642000"
+    },
+    {
+        "name": "Munch barnehage",
+        "address": "Operagata 37, 0194 Oslo",
+        "lat": "59.9068930",
+        "lon": "10.7562570"
+    },
+    {
+        "name": "Munik barnehage",
+        "address": "Totengata 7, 0658 Oslo",
+        "lat": "59.9096220",
+        "lon": "10.7878870"
+    },
+    {
+        "name": "Munkelia barnehage",
+        "address": "Langbølgen 67, 1151 OSLO",
+        "lat": "59.8641390",
+        "lon": "10.8141270"
+    },
+    {
+        "name": "Munkenga barnehage",
+        "address": "Galgeberg 2, 0657 OSLO",
+        "lat": "59.9075730",
+        "lon": "10.7786570"
+    },
+    {
+        "name": "Munkerud miljøbarnehage",
+        "address": "P. A. Holms vei 18, 1164 OSLO",
+        "lat": "59.8586210",
+        "lon": "10.8136390"
+    },
+    {
+        "name": "Munkerudsletta barnehage",
+        "address": "Brattvollveien 219, 1164 OSLO",
+        "lat": "59.8531610",
+        "lon": "10.8162970"
+    },
+    {
+        "name": "Munkerudtoppen barnehage",
+        "address": "Nordstrandveien 77, 1164 OSLO",
+        "lat": "59.8600820",
+        "lon": "10.8139240"
+    },
+    {
+        "name": "Myrer Kanvas-barnehage",
+        "address": "Nordstjerneveien 4, 0494 OSLO",
+        "lat": "59.9611280",
+        "lon": "10.7894440"
+    },
+    {
+        "name": "Myrvoll barnehage",
+        "address": "Tor Jonssons veg 7, 0688 OSLO",
+        "lat": "59.8847880",
+        "lon": "10.8518830"
+    },
+    {
+        "name": "Måltrosten barnehage",
+        "address": "Måltrostveien 6, 0786 OSLO",
+        "lat": "59.9574060",
+        "lon": "10.6598120"
+    },
+    {
+        "name": "Mærradalen barnehage",
+        "address": "Silurveien 31, 0383 OSLO",
+        "lat": "59.9303460",
+        "lon": "10.6569030"
+    },
+    {
+        "name": "Møllefaret barnehage",
+        "address": "Møllefaret 36, 0750 OSLO",
+        "lat": "59.9393190",
+        "lon": "10.6360150"
+    },
+    {
+        "name": "Mølleplassen Kanvas-barnehage",
+        "address": "Gravdalsveien 10B, 0756 OSLO",
+        "lat": "59.9546060",
+        "lon": "10.6330620"
+    },
+    {
+        "name": "Mølleplassen spesialbarnehage",
+        "address": "Gravdalsveien 10C, 0756 OSLO",
+        "lat": "59.9545280",
+        "lon": "10.6327890"
+    },
+    {
+        "name": "Nedre Bekkelaget barnehage",
+        "address": "Grønsundveien 15, 0198 Oslo",
+        "lat": "59.8794760",
+        "lon": "10.7677570"
+    },
+    {
+        "name": "Nedre Fossum gård barnehage",
+        "address": "Karl Fossums vei 1, 0984 Oslo",
+        "lat": "59.9595490",
+        "lon": "10.9202350"
+    },
+    {
+        "name": "Nedre Silkestrå barnehage",
+        "address": "Nedre Silkestrå 20, 0375 Oslo",
+        "lat": "59.9282360",
+        "lon": "10.6837530"
+    },
+    {
+        "name": "Nedregate barnehage",
+        "address": "Nedregate 3, 0551 Oslo",
+        "lat": "59.92026",
+        "lon": "10.754404"
+    },
+    {
+        "name": "Nemo familiebarnehage, Rødtvet",
+        "address": "Hans Aanruds vei 46, 0956 Oslo",
+        "lat": "59.9538610",
+        "lon": "10.8487460"
+    },
+    {
+        "name": "Nordberg barnehage",
+        "address": "Carl Kjelsens vei 23A, 0860 Oslo",
+        "lat": "59.9609510",
+        "lon": "10.7443150"
+    },
+    {
+        "name": "Nordberg menighets barnehage",
+        "address": "Kringsjågrenda 1, 0861 Oslo",
+        "lat": "59.9630580",
+        "lon": "10.7426400"
+    },
+    {
+        "name": "Nordjordet barnehage",
+        "address": "Skøyenveien 36B, 0378 Oslo",
+        "lat": "59.9293320",
+        "lon": "10.6887400"
+    },
+    {
+        "name": "Nordraaks gate barnehage",
+        "address": "Nordraaks gate 17, 0266 Oslo",
+        "lat": "59.9226800",
+        "lon": "10.7087070"
+    },
+    {
+        "name": "Nordre Skøyen barnehage",
+        "address": "Peter Aas vei 17, 0667 Oslo",
+        "lat": "59.9076150",
+        "lon": "10.8275740"
+    },
+    {
+        "name": "Nordre Ås barnehage",
+        "address": "Nordåsveien 19, 1251 Oslo",
+        "lat": "59.8313440",
+        "lon": "10.7907190"
+    },
+    {
+        "name": "Nordre Åsen Kanvas-barnehage",
+        "address": "Åsensvingen 1D, 0488 Oslo",
+        "lat": "59.9408570",
+        "lon": "10.7840550"
+    },
+    {
+        "name": "Nordseter barnehage",
+        "address": "Pearl Engens vei 1, 1161 Oslo",
+        "lat": "59.8703880",
+        "lon": "10.7959620"
+    },
+    {
+        "name": "Nordskrenten åpen barnehage",
+        "address": "Lusetjernveien 2, 1253 Oslo",
+        "lat": "59.8331620",
+        "lon": "10.7858200"
+    },
+    {
+        "name": "Nordstrand kirkes barnehage",
+        "address": "Breiensvei 2, 1166 Oslo",
+        "lat": "59.8585201",
+        "lon": "10.8030442"
+    },
+    {
+        "name": "Nordtvet barnehage",
+        "address": "Gårdsveien 2 B, 0952 Oslo",
+        "lat": "59.9505640",
+        "lon": "10.8717620"
+    },
+    {
+        "name": "Nordtvet gård barnehage",
+        "address": "Gårdsveien 7, 0952 Oslo",
+        "lat": "59.9508000",
+        "lon": "10.8745310"
+    },
+    {
+        "name": "Norlandia Aker Brygge barnehage",
+        "address": "Bryggetorget 19, 0250 Oslo",
+        "lat": "59.9097570",
+        "lon": "10.7237990"
+    },
+    {
+        "name": "Norlandia Enga barnehage",
+        "address": "Opplandgata 5, 0657 Oslo",
+        "lat": "59.9073520",
+        "lon": "10.7850650"
+    },
+    {
+        "name": "Norlandia Eventyrstua barnehage",
+        "address": "Gunnar schjelderups vei 11G, 0485 Oslo",
+        "lat": "59.9493940",
+        "lon": "10.7744330"
+    },
+    {
+        "name": "Norlandia Fagerholt barnehage",
+        "address": "Dr. Dedichens vei 30, 0675 Oslo",
+        "lat": "59.9229420",
+        "lon": "10.8669320"
+    },
+    {
+        "name": "Norlandia Gaustadskogen barnehage",
+        "address": "Gaustadveien 6G, 0372 Oslo",
+        "lat": "59.9547980",
+        "lon": "10.7176670"
+    },
+    {
+        "name": "Norlandia Kanonen barnehage",
+        "address": "Lørenveien 40, 0585 OSLO",
+        "lat": "59.9311860",
+        "lon": "10.7915900"
+    },
+    {
+        "name": "Norlandia Lysejordet barnehage",
+        "address": "Vækerøveien 141, 0383 Oslo",
+        "lat": "59.9378170",
+        "lon": "10.6419910"
+    },
+    {
+        "name": "Norlandia Myrertoppen barnehage",
+        "address": "Myrerskogveien 38, 0495 Oslo",
+        "lat": "59.9640600",
+        "lon": "10.7937400"
+    },
+    {
+        "name": "Norlandia Skistua barnehage",
+        "address": "Holmenkollveien 202, 0791 Oslo",
+        "lat": "59.9776100",
+        "lon": "10.6799620"
+    },
+    {
+        "name": "Norlandia Sørhellinga Barnehage",
+        "address": "Simon Darres vei 49B, 0669 OSLO",
+        "lat": "59.9120010",
+        "lon": "10.8332660"
+    },
+    {
+        "name": "Norlandia Tjuvholmen barnehage",
+        "address": "Landgangen 6, 0252 Oslo",
+        "lat": "59.9077940",
+        "lon": "10.7204780"
+    },
+    {
+        "name": "Norlandia Tomms hytter AS",
+        "address": "Tryvannsveien 59, 0791 Oslo",
+        "lat": "59.9843610",
+        "lon": "10.6724540"
+    },
+    {
+        "name": "Norlandia Valhall barnehage",
+        "address": "Vestre haugen 48, 1054 Oslo",
+        "lat": "59.9495940",
+        "lon": "10.8975280"
+    },
+    {
+        "name": "Norlandia Voksentoppen ski- og friluftsbarnehage",
+        "address": "Ullveien 10, 0791 Oslo",
+        "lat": "59.9773200",
+        "lon": "10.6651890"
+    },
+    {
+        "name": "Norlandia Årvollskogen barnehage",
+        "address": "Årvollveien 58V, 0590 Oslo",
+        "lat": "59.9522250",
+        "lon": "10.8178120"
+    },
+    {
+        "name": "Normannsløkka barnehage",
+        "address": "Sigurd Hoels vei 14, 0655 Oslo",
+        "lat": "59.9177260",
+        "lon": "10.7853300"
+    },
+    {
+        "name": "NRK barnehagen",
+        "address": "Bjørnstjerne Bjørnsons Plass 1, 0340 Oslo",
+        "lat": "59.9347230",
+        "lon": "10.7196620"
+    },
+    {
+        "name": "Nybyen barnehage",
+        "address": "Mørtelverksbakken 29, 0580 Oslo",
+        "lat": "59.9366010",
+        "lon": "10.8060420"
+    },
+    {
+        "name": "Nydalen allé barnehage",
+        "address": "Nydalen allé 63, 0485 Oslo",
+        "lat": "59.9480940",
+        "lon": "10.7721060"
+    },
+    {
+        "name": "Nydalen barnehage",
+        "address": "Maridalsveien 292, 0872 Oslo",
+        "lat": "59.9528070",
+        "lon": "10.7603800"
+    },
+    {
+        "name": "Nyjordet barnehage",
+        "address": "Nyjordeveien 15, 1275 Oslo",
+        "lat": "59.8297470",
+        "lon": "10.8394290"
+    },
+    {
+        "name": "Nylænde barnehage",
+        "address": "Gina Krogs vei 10, 1153 Oslo",
+        "lat": "59.8780670",
+        "lon": "10.8143500"
+    },
+    {
+        "name": "Nøklevann naturbarnehage",
+        "address": "Bølerlia 73c, 0691 Oslo",
+        "lat": "59.8777430",
+        "lon": "10.8460640"
+    },
+    {
+        "name": "Nøtteliten familiebarnehage",
+        "address": "Arthur Nordlies vei 7, 0956 Oslo",
+        "lat": "59.9570900",
+        "lon": "10.8634010"
+    },
+    {
+        "name": "Obersten barnehage",
+        "address": "Oberst Rodes vei 83, 1165 Oslo",
+        "lat": "59.8627970",
+        "lon": "10.8085360"
+    },
+    {
+        "name": "Ola Narr barnehage",
+        "address": "Grenseveien 19, 0571 Oslo",
+        "lat": "59.9246130",
+        "lon": "10.7811430"
+    },
+    {
+        "name": "Ole Brumm barnehage",
+        "address": "Ole Brumms vei 11, 0979 Oslo",
+        "lat": "59.9517480",
+        "lon": "10.9094690"
+    },
+    {
+        "name": "Ole Brumm familiebarnehage",
+        "address": "Ekebergveien 287, 1166 Oslo",
+        "lat": "59.8538780",
+        "lon": "10.8013740"
+    },
+    {
+        "name": "Oppsal samfunnshus barnehage",
+        "address": "Vetlandsveien 99/101, 0685 Oslo",
+        "lat": "59.8970218",
+        "lon": "10.8451969"
+    },
+    {
+        "name": "Oppsal Torg barnehage",
+        "address": "Haakon Tvetersvei 88, 0686 Oslo",
+        "lat": "59.8943871",
+        "lon": "10.8407099"
+    },
+    {
+        "name": "Oppsaltunet barnehage",
+        "address": "Oppsalveien 19-21, 0686 Oslo",
+        "lat": "59.8904282",
+        "lon": "10.8364813"
+    },
+    {
+        "name": "Orebakken barnehage",
+        "address": "Landingsveien 108, 0767 Oslo",
+        "lat": "59.9519860",
+        "lon": "10.6515730"
+    },
+    {
+        "name": "Orelia barnehage",
+        "address": "Oreliveien 40, 0584 Oslo",
+        "lat": "59.9362520",
+        "lon": "10.8148610"
+    },
+    {
+        "name": "Oskar Braaten barnehage",
+        "address": "Anna Sethnes gate 5, 0474 Oslo",
+        "lat": "59.9326190",
+        "lon": "10.7675420"
+    },
+    {
+        "name": "Ospa barnehage",
+        "address": "Lindebergåsen 58D, 1068 Oslo",
+        "lat": "59.9308540",
+        "lon": "10.8834250"
+    },
+    {
+        "name": "Papaya Kanvas-barnehage",
+        "address": "Rubina Ranas gate 10, 0192 OSLO",
+        "lat": "59.9117600",
+        "lon": "10.7645010"
+    },
+    {
+        "name": "Petersborg barnehage",
+        "address": "Sigurd Hoels vei 21, 0655 OSLO",
+        "lat": "59.9166980",
+        "lon": "10.7873000"
+    },
+    {
+        "name": "Plassen barnehage",
+        "address": "Jerikoveien 9, 1067 OSLO",
+        "lat": "59.9332590",
+        "lon": "10.8829030"
+    },
+    {
+        "name": "Plutti Plott familiebarnehage",
+        "address": "Oberst Rodes vei 90E, 1150 OSLO",
+        "lat": "59.8608060",
+        "lon": "10.8102670"
+    },
+    {
+        "name": "Pontoppidan barnehage",
+        "address": "Pontoppidans gate 8, 0462 OSLO",
+        "lat": "59.9368760",
+        "lon": "10.7527520"
+    },
+    {
+        "name": "Portnerboligen naturbarnehage (avvikles 1.8.2026)",
+        "address": "Munkedamsveien 92, 0272 OSLO",
+        "lat": "59.9118880",
+        "lon": "10.7119080"
+    },
+    {
+        "name": "Preståsen Kanvas-barnhage",
+        "address": "Åslandhellinga 106 b, 1274 OSLO",
+        "lat": "59.8228470",
+        "lon": "10.8395830"
+    },
+    {
+        "name": "Prinsdalsbråten barnehage",
+        "address": "Sponstugrenda 36, 1263 OSLO",
+        "lat": "59.8284790",
+        "lon": "10.8117240"
+    },
+    {
+        "name": "Radarveien barnehage",
+        "address": "Radarveien 92, 1154 OSLO",
+        "lat": "59.8711930",
+        "lon": "10.8106840"
+    },
+    {
+        "name": "Radiohuset barnehage",
+        "address": "Feltspatveien 15, 1154 OSLO",
+        "lat": "59.8730350",
+        "lon": "10.8175290"
+    },
+    {
+        "name": "Ragnas hage",
+        "address": "Kyrre Grepps gate 13, 0481 OSLO",
+        "lat": "59.9394720",
+        "lon": "10.7769530"
+    },
+    {
+        "name": "Rasmusbakken barnehage",
+        "address": "Rasmusbakken 1, 0962 OSLO",
+        "lat": "59.9549790",
+        "lon": "10.8777060"
+    },
+    {
+        "name": "Ravnkollen barnehage",
+        "address": "Ravnkollbakken 71, 0971 OSLO",
+        "lat": "59.9679140",
+        "lon": "10.8927350"
+    },
+    {
+        "name": "Refstad barnehage",
+        "address": "Ribstonveien 35, 0586 OSLO",
+        "lat": "59.9360410",
+        "lon": "10.8001020"
+    },
+    {
+        "name": "Regnbuen åpen barnehage",
+        "address": "Myrerveien 40, 0494 OSLO",
+        "lat": "59.9658250",
+        "lon": "10.7887480"
+    },
+    {
+        "name": "Rektorhaugen Kanvas-barnehage",
+        "address": "Nils Bays vei 50B, 0876 OSLO",
+        "lat": "59.9522480",
+        "lon": "10.7383960"
+    },
+    {
+        "name": "Riflegata barnehage",
+        "address": "Riflegata 11, 0470 OSLO",
+        "lat": "59.9414370",
+        "lon": "10.7636970"
+    },
+    {
+        "name": "Ringnes Park FUS barnehage",
+        "address": "Toftes gate 15C, 0556 OSLO",
+        "lat": "59.9297890",
+        "lon": "10.7605570"
+    },
+    {
+        "name": "Rishaven menighetsbarnehage",
+        "address": "Risbakken 1, 0374 OSLO",
+        "lat": "59.9481610",
+        "lon": "10.7025940"
+    },
+    {
+        "name": "Risløkka familiebarnehage",
+        "address": "Risløkkveien 67B, 0583 Oslo",
+        "lat": "59.9331270",
+        "lon": "10.8239070"
+    },
+    {
+        "name": "Rodeløkka barnehage",
+        "address": "Tromsøgata 2, 0560 OSLO",
+        "lat": "59.9230680",
+        "lon": "10.7698610"
+    },
+    {
+        "name": "Rosenborg barnehage",
+        "address": "Suhms gate 36, 0363 Oslo",
+        "lat": "59.9346430",
+        "lon": "10.7156400"
+    },
+    {
+        "name": "Rosenhagen barnehage",
+        "address": "Rosendalsveien 31, 1166 OSLO",
+        "lat": "59.8556480",
+        "lon": "10.7977450"
+    },
+    {
+        "name": "Rudshøgda Kanvas-naturbarnehage",
+        "address": "Lofsrudhøgda 201, 1281 OSLO",
+        "lat": "59.8462540",
+        "lon": "10.8253630"
+    },
+    {
+        "name": "Ruseløkka barnehage",
+        "address": "Huitfeldts gate 32, 0253 OSLO",
+        "lat": "59.9115600",
+        "lon": "10.7219000"
+    },
+    {
+        "name": "Rustad gård barnehage",
+        "address": "Rustadgrenda 28, 0693 OSLO",
+        "lat": "59.8719500",
+        "lon": "10.8460290"
+    },
+    {
+        "name": "Rustadsaga barnehage",
+        "address": "General Ruges vei 94, 0694 OSLO",
+        "lat": "59.8718830",
+        "lon": "10.8495090"
+    },
+    {
+        "name": "Rygin barnehage",
+        "address": "Solfjellshøgda 28, 0677 OSLO",
+        "lat": "59.8993220",
+        "lon": "10.7996340"
+    },
+    {
+        "name": "Røa Menighets Barnehage",
+        "address": "Nordengveien 9, 0755 OSLO",
+        "lat": "59.9499260",
+        "lon": "10.6436980"
+    },
+    {
+        "name": "Røahagan familiebarnehage",
+        "address": "Røahagan 23, 0754 OSLO",
+        "lat": "59.9500160",
+        "lon": "10.6482160"
+    },
+    {
+        "name": "Rødtvet barnehage",
+        "address": "Sandåsveien 5, 0956 OSLO",
+        "lat": "59.9534900",
+        "lon": "10.8559710"
+    },
+    {
+        "name": "Rønningen Kanvas-barnehage",
+        "address": "Øvre Myrhaugen 17, 0752 OSLO",
+        "lat": "59.9377460",
+        "lon": "10.6447610"
+    },
+    {
+        "name": "Rønningjordet barnehage",
+        "address": "Oppsal Terrasse 61, 0686 OSLO",
+        "lat": "59.8940670",
+        "lon": "10.8364900"
+    },
+    {
+        "name": "Sanatoriet barnehage",
+        "address": "Kjelsåsveien 51, 0488 OSLO",
+        "lat": "59.9499810",
+        "lon": "10.7938300"
+    },
+    {
+        "name": "Sandakerveien FUS barnehage",
+        "address": "Sandakerveien 74, 0484 OSLO",
+        "lat": "59.9427850",
+        "lon": "10.7703210"
+    },
+    {
+        "name": "Sandbakken barnehage",
+        "address": "Selvbyggerveien 130, 0591 OSLO",
+        "lat": "59.9448170",
+        "lon": "10.8280760"
+    },
+    {
+        "name": "Sandåsveien barnehage",
+        "address": "Sandåsveien 1, 0956 OSLO",
+        "lat": "59.9536020",
+        "lon": "10.8575890"
+    },
+    {
+        "name": "Saturn familiebarnehage",
+        "address": "Granveien 19A, 1178 OSLO",
+        "lat": "59.8816170",
+        "lon": "10.7931900"
+    },
+    {
+        "name": "Scala Private Barnehage",
+        "address": "Granstangen 50, 1051 OSLO",
+        "lat": "59.9444900",
+        "lon": "10.8976480"
+    },
+    {
+        "name": "Schafteløkken Menighetsbarnehage",
+        "address": "Zahlkasserer Schafts plass 2, 0267 OSLO",
+        "lat": "59.9209920",
+        "lon": "10.7029690"
+    },
+    {
+        "name": "Seilduken barnehage",
+        "address": "Seilduksgata 32, 0553 OSLO",
+        "lat": "59.9257770",
+        "lon": "10.7633670"
+    },
+    {
+        "name": "Sigurdsgate familiebarnehage",
+        "address": "Sigurds gate 20C, 0650 OSLO",
+        "lat": "59.9132100",
+        "lon": "10.7748800"
+    },
+    {
+        "name": "Sinsen barnehage",
+        "address": "Båhusveien 46, 0585 OSLO",
+        "lat": "59.9341710",
+        "lon": "10.7850380"
+    },
+    {
+        "name": "Sinsen kirkes barnehage",
+        "address": "Lørenveien 13, 0585 OSLO",
+        "lat": "59.9320070",
+        "lon": "10.7876240"
+    },
+    {
+        "name": "Sisiktoppen barnehage",
+        "address": "Statsråd Mathiesens vei 16, 0598 OSLO",
+        "lat": "59.9390610",
+        "lon": "10.8325210"
+    },
+    {
+        "name": "Sjokoladefabrikken barnehage",
+        "address": "Sofienberggata 37, 0558 Oslo",
+        "lat": "59.9214710",
+        "lon": "10.7677360"
+    },
+    {
+        "name": "Sjøutsikten familiebarnehage",
+        "address": "Ljabruveien 31A, 1169 OSLO",
+        "lat": "59.8557990",
+        "lon": "10.7856410"
+    },
+    {
+        "name": "Skauen barnehage",
+        "address": "Selvbyggerveien 141, 0591 OSLO",
+        "lat": "59.9495480",
+        "lon": "10.8229240"
+    },
+    {
+        "name": "Skillebekk barnehage",
+        "address": "Drammensveien 33B, 0272 OSLO",
+        "lat": "59.9143880",
+        "lon": "10.7136830"
+    },
+    {
+        "name": "Skogbrynet Kanvas-barnehage",
+        "address": "Skogbrynet 33, 0283 OSLO",
+        "lat": "59.9173910",
+        "lon": "10.6465440"
+    },
+    {
+        "name": "Skogfuglen barnehage",
+        "address": "Skogfaret 28, 0382 OSLO",
+        "lat": "59.9332260",
+        "lon": "10.6413880"
+    },
+    {
+        "name": "Skogkanten Barnehage",
+        "address": "Arthur Nordlies vei 7, 0956 OSLO",
+        "lat": "59.9570900",
+        "lon": "10.8634010"
+    },
+    {
+        "name": "Skogly - SiO barnehage AS",
+        "address": "Olav M. Troviks vei 16, 0864 OSLO",
+        "lat": "59.9646910",
+        "lon": "10.7310230"
+    },
+    {
+        "name": "Skovheim Kanvas barnehage",
+        "address": "Lindbäckveien 55, 1163 OSLO",
+        "lat": "59.8651050",
+        "lon": "10.7973910"
+    },
+    {
+        "name": "Skredder'n barnehage",
+        "address": "Åsdalsveien 55, 1167 OSLO",
+        "lat": "59.8507850",
+        "lon": "10.7916920"
+    },
+    {
+        "name": "Skredderstua barnehage",
+        "address": "Åsdalsveien 55, 1169 OSLO",
+        "lat": "59.8507850",
+        "lon": "10.7916920"
+    },
+    {
+        "name": "Skrellinga Kanvas-barnehage",
+        "address": "Kirkeveien 166, 0450 OSLO",
+        "lat": "59.9369360",
+        "lon": "10.7370580"
+    },
+    {
+        "name": "Skrubbelund barnehage",
+        "address": "Veitvetveien 32, 0596 OSLO",
+        "lat": "59.9429980",
+        "lon": "10.8535230"
+    },
+    {
+        "name": "Skullerudhøgda barnehage",
+        "address": "Skullerudveien 61, 1188 OSLO",
+        "lat": "59.8677390",
+        "lon": "10.8375610"
+    },
+    {
+        "name": "Skytterbanen FUS barnehage",
+        "address": "Årvollveien 50 G, 0590 OSLO",
+        "lat": "59.9532330",
+        "lon": "10.8188270"
+    },
+    {
+        "name": "Skøyen Terrasse Barnehage",
+        "address": "Konventveien 76, 0275 OSLO",
+        "lat": "59.9268530",
+        "lon": "10.6795960"
+    },
+    {
+        "name": "Sletta barnehage",
+        "address": "Selvbyggerveien 23B, 0591 OSLO",
+        "lat": "59.9497550",
+        "lon": "10.8210970"
+    },
+    {
+        "name": "Slime gård barnehage",
+        "address": "Slimeveien 10, 1277 OSLO",
+        "lat": "59.8316620",
+        "lon": "10.8393380"
+    },
+    {
+        "name": "Slime Gård Åpen barnehage",
+        "address": "Slimeveien 10, 1277 OSLO",
+        "lat": "59.8316620",
+        "lon": "10.8393380"
+    },
+    {
+        "name": "Sloreåsen barnehage",
+        "address": "Sloreåsen 6, 1257 OSLO",
+        "lat": "59.8439370",
+        "lon": "10.7946790"
+    },
+    {
+        "name": "Smalvollskogen barnehage",
+        "address": "Gunnulvs vei 38, 0669 OSLO",
+        "lat": "59.9184020",
+        "lon": "10.8442260"
+    },
+    {
+        "name": "Smedbakken FUS barnehage",
+        "address": "Edvard Munchs vei 57, 1063 OSLO",
+        "lat": "59.9340970",
+        "lon": "10.9176540"
+    },
+    {
+        "name": "Smedstua gård barnehage",
+        "address": "Østre Aker vei 310, 0977 OSLO",
+        "lat": "59.9542900",
+        "lon": "10.9162420"
+    },
+    {
+        "name": "Smestad barnehage",
+        "address": "Priorveien 17, 0377 OSLO",
+        "lat": "59.9334920",
+        "lon": "10.6813450"
+    },
+    {
+        "name": "Sofienbergparken og Kråkeslottet barnehage",
+        "address": "Helgesens gate 63, 0558 OSLO",
+        "lat": "59.9223250",
+        "lon": "10.7689620"
+    },
+    {
+        "name": "Sognsveien barnehage",
+        "address": "Sognsveien 13, 0851 OSLO",
+        "lat": "59.9399330",
+        "lon": "10.7307710"
+    },
+    {
+        "name": "Solbakken barnas hage (Bydel Ullern)",
+        "address": "Sigurd Iversens vei 37 B, 0281 OSLO",
+        "lat": "59.9216950",
+        "lon": "10.6663830"
+    },
+    {
+        "name": "Solbakken barnehage SA (Bydel Søndre Nordstrand)",
+        "address": "Marta Steinsviks vei 18, 1283 Oslo",
+        "lat": "59.8539330",
+        "lon": "10.8234630"
+    },
+    {
+        "name": "Solbærtorvet barnehage",
+        "address": "Gardeveien 4, 0363 OSLO",
+        "lat": "59.9325780",
+        "lon": "10.7183260"
+    },
+    {
+        "name": "Solemskogen naturbarnehage",
+        "address": "Solemskogveien 3, 0496 OSLO",
+        "lat": "59.9783800",
+        "lon": "10.8145150"
+    },
+    {
+        "name": "Solfjellet barnehage",
+        "address": "Haugerudveien 93, 0674 OSLO",
+        "lat": "59.9216000",
+        "lon": "10.8595390"
+    },
+    {
+        "name": "Solfridbakken barnehage",
+        "address": "Traktorveien 30, 0678 OSLO",
+        "lat": "59.9004800",
+        "lon": "10.8121220"
+    },
+    {
+        "name": "Sollerud barnehage SA",
+        "address": "Sollerudveien 22, 0283 OSLO",
+        "lat": "59.9186150",
+        "lon": "10.6419900"
+    },
+    {
+        "name": "Solrosen steinerbarnehage",
+        "address": "Oscars gate 84, 0256 OSLO",
+        "lat": "59.9162820",
+        "lon": "10.7180390"
+    },
+    {
+        "name": "Sommerfryd barnehage",
+        "address": "Hagegata 29, 0653 OSLO",
+        "lat": "59.9138320",
+        "lon": "10.7753960"
+    },
+    {
+        "name": "Sophies Hage barnehage",
+        "address": "Jørgen Løvlands gate 1 C-J, 0568 Oslo",
+        "lat": "59.9279943",
+        "lon": "10.7745162"
+    },
+    {
+        "name": "Sotamyggen barnehage",
+        "address": "Vålerenggata 27, 0658 OSLO",
+        "lat": "59.9081900",
+        "lon": "10.7874700"
+    },
+    {
+        "name": "Sportsplassen barnehage",
+        "address": "Jomfrustien 1, 1179 OSLO",
+        "lat": "59.8862416",
+        "lon": "10.7746747"
+    },
+    {
+        "name": "Stallen barnehage",
+        "address": "Frognerveien 67, 0266 OSLO",
+        "lat": "59.9249323",
+        "lon": "10.7070774"
+    },
+    {
+        "name": "Starveien barnehage",
+        "address": "Starveien 64, 1088 OSLO",
+        "lat": "59.9427470",
+        "lon": "10.9348030"
+    },
+    {
+        "name": "Steinbråten naturbarnehage",
+        "address": "Hans Breiens vei 8, 1283 OSLO",
+        "lat": "59.8516410",
+        "lon": "10.8253730"
+    },
+    {
+        "name": "Steinspranget barnehage",
+        "address": "Steinspranget 6, 1156 OSLO",
+        "lat": "59.8705100",
+        "lon": "10.8224060"
+    },
+    {
+        "name": "Stilla barnehage",
+        "address": "Kjelsåsveien 156C, 0491 OSLO",
+        "lat": "59.9655790",
+        "lon": "10.7790430"
+    },
+    {
+        "name": "Stjerneblokkveien barnehage",
+        "address": "Stjerneblokkveien 8, 1083 OSLO",
+        "lat": "59.9507580",
+        "lon": "10.8902520"
+    },
+    {
+        "name": "Stjernemyra barnehage",
+        "address": "Stjernemyrveien 50, 0673 OSLO",
+        "lat": "59.9202340",
+        "lon": "10.8564030"
+    },
+    {
+        "name": "Store Ljan Barnehage",
+        "address": "Herregårdsveien 40, 1168 OSLO",
+        "lat": "59.8418570",
+        "lon": "10.7818420"
+    },
+    {
+        "name": "Storgården barnehage",
+        "address": "Byggveien 9, 0680 OSLO",
+        "lat": "59.8953090",
+        "lon": "10.8086600"
+    },
+    {
+        "name": "Stovnerfaret barnehage",
+        "address": "Stovnerfaret 25, 0982 OSLO",
+        "lat": "59.9556140",
+        "lon": "10.9258640"
+    },
+    {
+        "name": "Stovnerhøgda barnehage",
+        "address": "Fossumberget 22, 0983 OSLO",
+        "lat": "59.9611310",
+        "lon": "10.9311710"
+    },
+    {
+        "name": "Strekkoden barnehage",
+        "address": "Trelastgata 23, 0191 OSLO",
+        "lat": "59.9079930",
+        "lon": "10.7619280"
+    },
+    {
+        "name": "Stubberudlia barnehage",
+        "address": "Tvetenveien 235, 0675 OSLO",
+        "lat": "59.9255940",
+        "lon": "10.8635740"
+    },
+    {
+        "name": "Studentenes Småbarnstue - SiO barnehage",
+        "address": "Henrik Ibsens gate 110, 0203 OSLO",
+        "lat": "59.9142960",
+        "lon": "10.7173620"
+    },
+    {
+        "name": "Stålverkskroken barnehage",
+        "address": "Stålverkskroken 14A, 0661 OSLO",
+        "lat": "59.9176650",
+        "lon": "10.7902940"
+    },
+    {
+        "name": "Støperiet barnehage",
+        "address": "Hasleveien 3, 0571 OSLO",
+        "lat": "59.9271110",
+        "lon": "10.7785450"
+    },
+    {
+        "name": "Svartdalsparken Kanvas-barnehage",
+        "address": "Enebakkveien 152B, 0680 OSLO",
+        "lat": "59.8978400",
+        "lon": "10.8022530"
+    },
+    {
+        "name": "Svenstuen barnehage",
+        "address": "Frognerseterveien 66C, 0776 OSLO",
+        "lat": "59.9567110",
+        "lon": "10.6877330"
+    },
+    {
+        "name": "Symrahagen familiebarnehage",
+        "address": "Solveien 24B, 1177 Oslo",
+        "lat": "59.8793540",
+        "lon": "10.7799360"
+    },
+    {
+        "name": "Søndre Dal Gård barnehage AS",
+        "address": "Avlangruds vei 5, 1285 OSLO",
+        "lat": "59.8511270",
+        "lon": "10.8386090"
+    },
+    {
+        "name": "Sørenga barnehage",
+        "address": "Sørengkaia 76, 0194 OSLO",
+        "lat": "59.9026610",
+        "lon": "10.7554090"
+    },
+    {
+        "name": "Tallberget barnehage",
+        "address": "Plogveien 24B, 0681 Oslo",
+        "lat": "59.8936661",
+        "lon": "10.8233361"
+    },
+    {
+        "name": "Taranrød barnehage",
+        "address": "Åslandhellinga 1, 1274 Oslo",
+        "lat": "59.8215260",
+        "lon": "10.8409550"
+    },
+    {
+        "name": "Teglverket barnehage",
+        "address": "Eikenga 2, 0579 Oslo",
+        "lat": "59.9241532",
+        "lon": "10.7973804"
+    },
+    {
+        "name": "Teisen vest barnehage",
+        "address": "Agmund Bolts vei 24, 0664 Oslo",
+        "lat": "59.9150670",
+        "lon": "10.8120770"
+    },
+    {
+        "name": "Teisentoppen, Frelsesarmeens barnehage i Oslo",
+        "address": "Teisenveien 5A, 0664 Oslo",
+        "lat": "59.9180140",
+        "lon": "10.8177060"
+    },
+    {
+        "name": "Thaulow barnehage",
+        "address": "Fridtjof Nansens vei 18, 0368 Oslo",
+        "lat": "59.9305360",
+        "lon": "10.7068390"
+    },
+    {
+        "name": "Thor Olsen barnehage",
+        "address": "Sandakerveien 63, 0477 Oslo",
+        "lat": "59.9397610",
+        "lon": "10.7701670"
+    },
+    {
+        "name": "Tigergutt familiebarnehage",
+        "address": "Heiasvingen 4, 1177 Oslo",
+        "lat": "59.8848650",
+        "lon": "10.7788190"
+    },
+    {
+        "name": "Tingeliten Kanvas-barnehage",
+        "address": "Tingstuveien 19 A, 0281 Oslo",
+        "lat": "59.9214430",
+        "lon": "10.6713610"
+    },
+    {
+        "name": "Tinkern Kanvas-barnehage",
+        "address": "Observatorie terrasse 17, 0270 Oslo",
+        "lat": "59.9121410",
+        "lon": "10.7131910"
+    },
+    {
+        "name": "Tiurleiken barnehage",
+        "address": "Ravnkollbakken 24B, 0971 Oslo",
+        "lat": "59.9640160",
+        "lon": "10.8902020"
+    },
+    {
+        "name": "Tjernveien barnehage",
+        "address": "Ammerudhellinga 2-4, 0959 Oslo",
+        "lat": "59.9613868",
+        "lon": "10.8696620"
+    },
+    {
+        "name": "Tokerudtoppen barnehage",
+        "address": "Tokerudberget 24, 0986 Oslo",
+        "lat": "59.9634670",
+        "lon": "10.9281110"
+    },
+    {
+        "name": "Tokerudåsen barnehage",
+        "address": "Tokerudberget 22, 0986 Oslo",
+        "lat": "59.9633510",
+        "lon": "10.9274780"
+    },
+    {
+        "name": "Tomm Murstad Friluftsbarnehage AS",
+        "address": "Øvreseterveien 30, 0791 Oslo",
+        "lat": "59.9816672",
+        "lon": "10.6669285"
+    },
+    {
+        "name": "Tommlekollen friluftsbarnehage",
+        "address": "Lillevansveien 87, 0788 Oslo",
+        "lat": "59.9814308",
+        "lon": "10.6531819"
+    },
+    {
+        "name": "Tonsenhagen barnehage",
+        "address": "Selvbyggerveien 102B, 0591 Oslo",
+        "lat": "59.9453610",
+        "lon": "10.8251520"
+    },
+    {
+        "name": "Toppen familiebarnehage",
+        "address": "Ringshusveien 8, 1176 Oslo",
+        "lat": "59.8788080",
+        "lon": "10.7989350"
+    },
+    {
+        "name": "Torshovtoppen barnehage",
+        "address": "Johan Selmers gate 3, 0475 Oslo",
+        "lat": "59.9341810",
+        "lon": "10.7729940"
+    },
+    {
+        "name": "Treffsted for småbarnsforeldre",
+        "address": "Glimmerveien 9, 1157 Oslo",
+        "lat": "59.8694920",
+        "lon": "10.8180290"
+    },
+    {
+        "name": "Treklang montessoribarnehage",
+        "address": "Underhaugsveien 20, 0354 Oslo",
+        "lat": "59.9241060",
+        "lon": "10.7270820"
+    },
+    {
+        "name": "Treklossen familiebarnehage",
+        "address": "Oberst Rodes vei 57, 1152 Oslo",
+        "lat": "59.8676300",
+        "lon": "10.8078160"
+    },
+    {
+        "name": "Treskeveien barnehage",
+        "address": "Treskeveien 2, 0681 Oslo",
+        "lat": "59.8943920",
+        "lon": "10.8184940"
+    },
+    {
+        "name": "Trollskogen barnehage Bjørndal",
+        "address": "Trollstien 30, 1274 Oslo",
+        "lat": "59.8177000",
+        "lon": "10.8406850"
+    },
+    {
+        "name": "Trollstua Kanvas-barnehage",
+        "address": "Kirkeveien 166, Bygg 64, 0450 Oslo",
+        "lat": "59.9369366",
+        "lon": "10.7370557"
+    },
+    {
+        "name": "Trollungene familiebarnehage",
+        "address": "Hellerudveien 140, 0687 Oslo",
+        "lat": "59.8929200",
+        "lon": "10.8571130"
+    },
+    {
+        "name": "Trosterud senter barnehage",
+        "address": "Tvetenveien 223, 0675 Oslo",
+        "lat": "59.9265190",
+        "lon": "10.8661310"
+    },
+    {
+        "name": "Trudes familiebarnehage",
+        "address": "Bøgata 12, 0654 Oslo",
+        "lat": "59.9121040",
+        "lon": "10.7810090"
+    },
+    {
+        "name": "Trøste og bære barnehage",
+        "address": "Jerikoveien 65, 1067 Oslo",
+        "lat": "59.9350870",
+        "lon": "10.8888410"
+    },
+    {
+        "name": "Turi Sletners barnehave",
+        "address": "Lillevannsveien 82, 0788 Oslo",
+        "lat": "59.9794743",
+        "lon": "10.6531069"
+    },
+    {
+        "name": "Tusentrippen barnehage",
+        "address": "Blindernveien 12, 0361 Oslo",
+        "lat": "59.9352884",
+        "lon": "10.7226356"
+    },
+    {
+        "name": "Tveteråsen barnehage",
+        "address": "Olav Nygardsveg 59-61, 0688 Oslo",
+        "lat": "59.885156",
+        "lon": "10.8533327"
+    },
+    {
+        "name": "Tyrihans barnehage",
+        "address": "Cecilie Thoresens vei 4, 1153 Oslo",
+        "lat": "59.8793980",
+        "lon": "10.8084870"
+    },
+    {
+        "name": "Tåsen barnehage",
+        "address": "Pastor Fangens vei 22B, 0854 Oslo",
+        "lat": "59.9456760",
+        "lon": "10.7427790"
+    },
+    {
+        "name": "Tåsen skoles barnehage",
+        "address": "Nordbergveien 15, 0875 Oslo",
+        "lat": "59.9531700",
+        "lon": "10.7514600"
+    },
+    {
+        "name": "Tåsenløkka barnehage",
+        "address": "Claus Borchs vei 19-23, 0853 Oslo",
+        "lat": "59.9438177",
+        "lon": "10.7458828"
+    },
+    {
+        "name": "Tørtberg Kanvas-barnehage",
+        "address": "Madserud Allé 49, 0274 Oslo",
+        "lat": "59.9254750",
+        "lon": "10.6980980"
+    },
+    {
+        "name": "Ullensakergata barnehage",
+        "address": "Ullensakergata 13, 0665 OSLO",
+        "lat": "59.9110140",
+        "lon": "10.7818810"
+    },
+    {
+        "name": "Ullern barnehage",
+        "address": "Jonas Dahls vei 37, 0283 OSLO",
+        "lat": "59.9217960",
+        "lon": "10.6403760"
+    },
+    {
+        "name": "Ullern åpen barnehage",
+        "address": "Hoffsveien 48, 0377 OSLO",
+        "lat": "59.9334540",
+        "lon": "10.6739340"
+    },
+    {
+        "name": "Ullernkollen barnehage",
+        "address": "Ullernkollen 14, 0380 OSLO",
+        "lat": "59.9359400",
+        "lon": "10.6489240"
+    },
+    {
+        "name": "Ullevålsletta barnehage",
+        "address": "Nils Bays vei 90, 0855 OSLO",
+        "lat": "59.9507330",
+        "lon": "10.7331780"
+    },
+    {
+        "name": "Ulvenkroken barnehage",
+        "address": "Ulvenveien 88, 0581 OSLO",
+        "lat": "59.9255280",
+        "lon": "10.8148680"
+    },
+    {
+        "name": "Ulvenparken barnehage",
+        "address": "Selma Ellefsens vei 5a, 0581 OSLO",
+        "lat": "59.9254720",
+        "lon": "10.8103830"
+    },
+    {
+        "name": "Ulvestua barnehage",
+        "address": "Zinoberveien 479, 0758 OSLO",
+        "lat": "60.0177470",
+        "lon": "10.6129770"
+    },
+    {
+        "name": "Ulvøya barnehage",
+        "address": "Fjordveien 2, 0198 OSLO",
+        "lat": "59.8710090",
+        "lon": "10.7740060"
+    },
+    {
+        "name": "Universitetets barnehage",
+        "address": "Gaustadalleen 7, 0373 OSLO",
+        "lat": "59.9410780",
+        "lon": "10.7152840"
+    },
+    {
+        "name": "Uranienborg barnehage",
+        "address": "Camilla Colletts vei 43, 0258 OSLO",
+        "lat": "59.9199798",
+        "lon": "10.7211723"
+    },
+    {
+        "name": "Utmarkveien barnehage",
+        "address": "Utmarkveien 6, 0689 OSLO",
+        "lat": "59.8830770",
+        "lon": "10.8496970"
+    },
+    {
+        "name": "Valle barnehage",
+        "address": "Vallefaret 14, 0663 OSLO",
+        "lat": "59.9191860",
+        "lon": "10.8018000"
+    },
+    {
+        "name": "Valle Hovin Idrettsbarnehage AS",
+        "address": "Innspurten 16H, 0663 OSLO",
+        "lat": "59.9173160",
+        "lon": "10.8053270"
+    },
+    {
+        "name": "Vassenga FUS barnehage",
+        "address": "Nåkkves vei 7, 0670 OSLO",
+        "lat": "59.9151100",
+        "lon": "10.8406980"
+    },
+    {
+        "name": "Veksthusfløtten familiebarnehage, Algunerhan",
+        "address": "Veksthusfløtten 11, 0594 OSLO",
+        "lat": "59.9402080",
+        "lon": "10.8314740"
+    },
+    {
+        "name": "Venkes familiebarnehage",
+        "address": "Bøgata 14, 0665 OSLO",
+        "lat": "59.9122300",
+        "lon": "10.7809800"
+    },
+    {
+        "name": "Veslefrikk Kanvas-barnehage",
+        "address": "Kirkeveien 166, 0450 OSLO",
+        "lat": "59.9369360",
+        "lon": "10.7370580"
+    },
+    {
+        "name": "Veslehaugen familiebarnehage",
+        "address": "Rolf Wickstrøms vei 2, 0873 OSLO",
+        "lat": "59.9534015",
+        "lon": "10.7625190"
+    },
+    {
+        "name": "Vesthellinga barnehage",
+        "address": "Johnny Svorkmos vei 52B, 0983 OSLO",
+        "lat": "59.9581470",
+        "lon": "10.9350560"
+    },
+    {
+        "name": "Vestjordet barnehage",
+        "address": "Hovseterveien 50c, 0768 OSLO",
+        "lat": "59.9495770",
+        "lon": "10.6496270"
+    },
+    {
+        "name": "Vestliberget barnehage",
+        "address": "Ragnhild Schibbyes vei 57, 0968 OSLO",
+        "lat": "59.9728140",
+        "lon": "10.9271500"
+    },
+    {
+        "name": "Vestlikollen barnehage",
+        "address": "Inga Bjørnsons vei 74, 0969 OSLO",
+        "lat": "59.9687050",
+        "lon": "10.9298850"
+    },
+    {
+        "name": "Vestliskaret FUS barnehage AS",
+        "address": "Vestlisvingen 186, 0969 OSLO",
+        "lat": "59.9720620",
+        "lon": "10.9275360"
+    },
+    {
+        "name": "Vestliskogen barnehage",
+        "address": "Ragnhild Schibbyesvei 10, 0968 OSLO",
+        "lat": "59.975066",
+        "lon": "10.9300276"
+    },
+    {
+        "name": "Vestlisletta barnehage",
+        "address": "Jacobine Ryes vei 114, 0987 OSLO",
+        "lat": "59.9638600",
+        "lon": "10.9221330"
+    },
+    {
+        "name": "Vestlisvingen barnehage",
+        "address": "Vestlisvingen 86, 0986 OSLO",
+        "lat": "59.9686270",
+        "lon": "10.9260110"
+    },
+    {
+        "name": "Vestlitoppen barnehage",
+        "address": "Vestlisvingen 194, 0969 OSLO",
+        "lat": "59.9729780",
+        "lon": "10.9300440"
+    },
+    {
+        "name": "Vetlandsveien barnehage",
+        "address": "Vetlandsveien 82, 0685 OSLO",
+        "lat": "59.8960720",
+        "lon": "10.8443280"
+    },
+    {
+        "name": "Vigelandsparken barnehage",
+        "address": "Nobels gate 30, 0268 OSLO",
+        "lat": "59.9218260",
+        "lon": "10.7011320"
+    },
+    {
+        "name": "Villa Borgen barnehage",
+        "address": "Borgenveien 14, 0370 OSLO",
+        "lat": "59.9357600",
+        "lon": "10.6987490"
+    },
+    {
+        "name": "Villa Utsikten Frilufts- og Idrettsbarnehage",
+        "address": "Binneveien 4, 0774 OSLO",
+        "lat": "59.9501630",
+        "lon": "10.6821720"
+    },
+    {
+        "name": "Voldsløkka barnehage",
+        "address": "Uelands gate 78, 0462 OSLO",
+        "lat": "59.9412830",
+        "lon": "10.7492840"
+    },
+    {
+        "name": "Voldsløkka barnehage for hørselshemmede",
+        "address": "Uelands gate 78, 0462 Oslo",
+        "lat": "59.9412830",
+        "lon": "10.7492840"
+    },
+    {
+        "name": "Vollebekk barnehage",
+        "address": "Lunden 51, 0598 OSLO",
+        "lat": "59.9375820",
+        "lon": "10.8293480"
+    },
+    {
+        "name": "Vålerenggata barnehage",
+        "address": "Vålerenggata 10, 0657 OSLO",
+        "lat": "59.9079100",
+        "lon": "10.7842900"
+    },
+    {
+        "name": "Vårveien barnehage",
+        "address": "Vårveien 1D, 1182 OSLO",
+        "lat": "59.8958480",
+        "lon": "10.7882370"
+    },
+    {
+        "name": "Vækerø gård barnehage",
+        "address": "Drammensveien 256, 0277 OSLO",
+        "lat": "59.9151250",
+        "lon": "10.6546600"
+    },
+    {
+        "name": "Vøyensvingen barnehage",
+        "address": "Vøyensvingen 20, 0458 OSLO",
+        "lat": "59.9324450",
+        "lon": "10.7543430"
+    },
+    {
+        "name": "Åkeberg barnehage",
+        "address": "Åkebergveien 23, 0650 Oslo",
+        "lat": "59.9081910",
+        "lon": "10.7781530"
+    },
+    {
+        "name": "Åpen barnehage Bjerke Familiesenter",
+        "address": "Veitvetveien 8, 0596 Oslo",
+        "lat": "59.9439850",
+        "lon": "10.8478130"
+    },
+    {
+        "name": "Åpen barnehage Haugenstua Torg",
+        "address": "Ole Brumms vei 5, 0979 Oslo",
+        "lat": "59.9518170",
+        "lon": "10.9109240"
+    },
+    {
+        "name": "Åpen barnehage i Gamle Oslo",
+        "address": "Kolstadgata 1, 0652 Oslo",
+        "lat": "59.9141940",
+        "lon": "10.7732160"
+    },
+    {
+        "name": "Åpen barnehage Nedre Fossum gård",
+        "address": "Karl Fossums vei 1, 0984 Oslo",
+        "lat": "59.9595490",
+        "lon": "10.9202350"
+    },
+    {
+        "name": "Årvoll barnehage",
+        "address": "Bård Skolemesters vei 20B, 0590 Oslo",
+        "lat": "59.9456250",
+        "lon": "10.8118830"
+    },
+    {
+        "name": "Åsbråten barnehage",
+        "address": "Nordåsveien 420, 1251 Oslo",
+        "lat": "59.8255260",
+        "lon": "10.7840020"
+    },
+    {
+        "name": "Åsenhagen barnehage",
+        "address": "Åsengata 23A–B, 0480 Oslo",
+        "lat": "59.9386736",
+        "lon": "10.7725336"
+    },
+    {
+        "name": "Åssida barnehage",
+        "address": "Lambertseterveien 18, 1160 Oslo",
+        "lat": "59.8719380",
+        "lon": "10.7995290"
+    },
+    {
+        "name": "Åstun barnehage",
+        "address": "Bjørn Bondes vei 159, 1253 Oslo",
+        "lat": "59.8276970",
+        "lon": "10.7881680"
+    },
+    {
+        "name": "Økern barnehage",
+        "address": "Økernveien 153, 0580 Oslo",
+        "lat": "59.9319920",
+        "lon": "10.8085080"
+    },
+    {
+        "name": "Økernly barnehage",
+        "address": "Økern Torgvei 7B, 0580 Oslo",
+        "lat": "59.9333390",
+        "lon": "10.8071300"
+    },
+    {
+        "name": "Øraker barnehage",
+        "address": "Vestveien 12, 0284 Oslo",
+        "lat": "59.9214800",
+        "lon": "10.6304320"
+    },
+    {
+        "name": "Østensjø Kanvas-barnehage",
+        "address": "Dalbakkveien 75, 0682 Oslo",
+        "lat": "59.9026910",
+        "lon": "10.8340570"
+    },
+    {
+        "name": "Østensjøstua barnehage SA",
+        "address": "Paal Bergs vei 2, 0692 Oslo",
+        "lat": "59.8748440",
+        "lon": "10.8414190"
+    },
+    {
+        "name": "Østmarka Idrettsbarnehage AS",
+        "address": "Hellerudveien 86, 0687 Oslo",
+        "lat": "59.8998770",
+        "lon": "10.8535150"
+    },
+    {
+        "name": "Øvre Høybråten barnehage",
+        "address": "Solbakken Alle 4A, 1086 Oslo",
+        "lat": "59.9433070",
+        "lon": "10.9206670"
+    }
+]
